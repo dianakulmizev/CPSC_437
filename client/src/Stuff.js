@@ -7,7 +7,7 @@ import './index.css'
 
 
 export const Page = styled.div`
-    background-color: #FDEBD7;
+    background-color: #FAF9F6;
     width: 100vw;
     height: 100vh;
     margin-left: auto;
@@ -45,17 +45,6 @@ export const Field = styled.input`
       }
 `
 
-export const Button = styled.input`
-    border-radius: 25px;
-    border: none;
-    background-color: #CD403E;
-    color: white;
-    padding: 10px;
-    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
-    width: fit-content;
-    font-family: 'Klee One', cursive;
-`
-
 export const Notebook = styled.div`
     width: 35%;
     height: fit-content;
@@ -78,6 +67,24 @@ export const Grocery = styled.li`
     padding: 5px;
     user-select: none;
     `
+
+    export const Button = styled.button`
+    border-radius: 25px;
+    border: none;
+    background-color: #009E60;
+    color: white;
+    padding: 10px;
+    box-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2);
+    width: fit-content;
+    font-family: 'Raleway', sans-serif
+`    
+
+export const Table = styled.table`
+background-color: #C1E1C1;
+border-radius: 25px;
+margin: auto;
+padding: 10px;
+`
 
 function Stuff() {
   const [productList, setProductList] = useState([])
@@ -120,25 +127,25 @@ function Stuff() {
     return (
       <Page>
         <Navigation />
-        <h2>Create My Shopping List</h2>
-        <p><button onClick={listProducts}>View All Products</button></p>
+        <h2 style={{fontFamily: "Raleway"}}>Create My Shopping List</h2>
+        <p><Button onClick={listProducts}>View All Products</Button></p>
         {productList.length > 0 &&
-        <table class="center">
+        <Table class="center">
           <tr>
-            <th>Product Name</th>
-            <th>Quantities</th>
-            <th>Order</th>
+            <th style={{fontFamily: "Raleway"}}>Product Name</th>
+            <th style={{fontFamily: "Raleway"}}>Quantities</th>
+            <th style={{fontFamily: "Raleway"}}>Order</th>
           </tr>
           <tbody>
         {productList.map ((val, idx)=>{
           return <tr>
-            <td>{val.name}</td> 
-            <td><input id={idx} type="text" size={2} defaultValue={1}/> </td> 
-            <td><button onClick={()=>addProduct(val.product_id, val.name, document.getElementById(idx).value)}>Add to List</button></td> 
+            <td style={{fontFamily: "Raleway"}}>{val.name}</td> 
+            <td><input style={{fontFamily: "Raleway", border: "0px", borderRadius: "25px"}} id={idx} type="text" size={2} defaultValue={1}/> </td> 
+            <td><Button onClick={()=>addProduct(val.product_id, val.name, document.getElementById(idx).value)}>Add to List</Button></td> 
             </tr>
         })}
         </tbody>
-        </table>
+        </Table>
         }
         
         {shoppingList.length > 0 &&
@@ -153,7 +160,7 @@ function Stuff() {
             })}
           </ol>
           </p>
-          <button onClick={postShoppingList}>Submit Shopping List</button>
+          <Button onClick={postShoppingList}>Submit Shopping List</Button>
         </div>
         }
 
@@ -169,7 +176,7 @@ function Stuff() {
             })}
           </ol>
           </p>
-          <button onClick={startOver}>Start Over</button>
+          <Button onClick={startOver}>Start Over</Button>
         </div>
         }
     </Page>

@@ -19,7 +19,7 @@ export const NavBar = styled.div`
 `
 
 export const Heading = styled.p`
-    font-family: 'Overpass', sans-serif;    
+    font-family: "Raleway", sans-serif; 
     font-size: 100px;
     color: #6BA64B;
     margin-top: 15px;
