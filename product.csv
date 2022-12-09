@@ -1,0 +1,930 @@
+,product,category,product_id
+0,DAVE'S KILLER BREAD White Bread Done Right,bread,1
+1,DAVE'S KILLER BREAD Good Seed Bread,bread,2
+2,BREAD ALONE Organic Peasant Loaf,bread,3
+3,BREAD & CHOCOLATE Ciabatta Bread,bread,4
+4,BOGHOSIAN VELLEY BREAD Lavash,bread,5
+5,BREAD ALONE Organic Rye Sourdough Loaf,bread,6
+6,ELI'S Traditional Hearth Baked Sliced Bread,bread,7
+7,BREAD & CHOCOLATE Dinner Ciabatta Rolls 6ct.,bread,8
+8,DAVE'S KILLER BREAD Organic White Done Right Bread,bread,9
+9,BREAD & CHOCOLATE Olive Oil Ciabatta Bread,bread,10
+10,BREAD ALONE Organic Whole Wheat Sourdough Bread,bread,11
+11,Health Bread,bread,12
+12,Manor House Bread,bread,13
+13,Country White Bread,bread,14
+14,Euro Rye Bread,bread,15
+15,BREAD & CHOCOLATE Brioche Loaf,bread,16
+16,BREAD & CHOCOLATE Challah Loaf,bread,17
+17,ELI'S Sliced Whole Wheat Bread,bread,18
+18,DAVE'S KILLER BREAD Organic 21 Whole Grains & Seeds Bread,bread,19
+19,JOSEPH'S Lavash Bread,bread,20
+20,ELI's San Francisco Style Sourdough Bread,bread,21
+21,STONEFIRE Original Naan Bread,bread,22
+22,FOUR FLOURS Zucchini Carrot Bread,bread,23
+23,CHABASO Roasted Garlic Ciabatta Bread,bread,24
+24,CHABASO Stone Ground Wheat Ciabatta Bread,bread,25
+25,THREE BAKERS Cinnamon Raisin Gluten Free Bread,bread,26
+26,PEPPERIDGE FARM Whole Grain 15 Grain Bread,bread,27
+27,THREE BAKERS Rye Style Gluten Free Bread,bread,28
+28,CANYON BAKEHOUSE Mountain White Gluten-Free Bread,bread,29
+29,SILVER HILLS Hemptation Sprouted Wheat Bread,bread,30
+30,SILVER HILLS Big Red's Ancient Grain Bread,bread,31
+31,BERLIN NATURAL BAKERY Classic White Spelt Bread,bread,32
+32,SILVER HILLS Organic Little Big Sprouted Wheat Bread,bread,33
+33,ALVARADO ST. BAKERY Organic Sprouted Sourdough Bread,bread,34
+34,SILVER HILLS Organic Squirrelly Sprouted Wheat Bread,bread,35
+35,THREE BAKERS Gluten-Free 7 Ancient Grain Bread,bread,36
+36,ALVARADO ST. BAKERY Seriously Sprouted Rye Seed Bread,bread,37
+37,ALVARADO ST. BAKERY Seriously Sprouted No Salt Added Multi-Grain Bread,bread,38
+38,ALVARADO ST. BAKERY Organic Sprouted Multi-Grain Bread,bread,39
+39,THREE BAKERS Whole Grain Gluten-Free White Bread,bread,40
+40,UDI'S Ancient Grain Omega-3 Flax And Fiber Gluten-Free Bread,bread,41
+41,UDI'S Whole Grain Sandwich Bread,bread,42
+42,SILVER HILLS Organic The Big 16 Sprouted Wheat Bread,bread,43
+43,ALVARADO ST. BAKERY Organic Sprouted White Multi-Grain Bread,bread,44
+44,ALVARADO ST. BAKERY Organic California Style Bread,bread,45
+45,ALVARADO ST. BAKERY Organic Sprouted 100% Whole Wheat Bread,bread,46
+46,RUDI'S Organic Spelt Ancient Grain Bread,bread,47
+47,LITTLE NORTHERN BAKEHOUSE Ancient Grain Bread,bread,48
+48,ALVARADO ST. BAKERY Organic Sprouted Flax Seed Bread,bread,49
+49,LITTLE NORTHERN BAKEHOUSE Seeds & Grain Gluten-Free Bread,bread,50
+50,GRACIE'S KITCHEN Chicken Breast Herb Bread Stuffing 18oz.,bread,51
+51,House-made Almond Chocolate Chip Bread,bread,52
+52,BREAD ALONE Organic French Sourdough Bread,bread,53
+53,BREAD & CHOCOLATE Cinnamon Roll,bread,54
+54,BREAD & CHOCOLATE Cranberry Scone,bread,55
+55,BREAD & CHOCOLATE Chocolate Croissant,bread,56
+56,BREAD & CHOCOLATE Blueberry Scone,bread,57
+57,BREAD & CHOCOLATE Almond Croissant,bread,58
+58,BREAD & CHOCOLATE Sourdough Loaf,bread,59
+59,BREAD & CHOCOLATE Blueberry Pie,bread,60
+60,BREAD & CHOCOLATE Soft Rolls,bread,61
+61,BREAD & CHOCOLATE Apple Pie,bread,62
+62,BOGHOSIAN VELLEY BREAD Lavash Whole Wheat Bread,bread,63
+63,ELI'S Jewish Rye Bread,bread,64
+64,BREAD & CHOCOLATE Morning Glory Muffin,bread,65
+65,BREAD & CHOCOLATE Dinner Rolls 6ct.,bread,66
+66,BREAD & CHOCOLATE Brioche dinner rolls,bread,67
+68,BREAD & CHOCOLATE Blackberry Almond Scone,bread,68
+70,BREAD & CHOCOLATE Raspberry Cheese Danish,bread,69
+71,BREAD & CHOCOLATE Jalapeno Cheddar Scone,bread,70
+72,BREAD & CHOCOLATE Blackberry Chocolate Scone,bread,71
+74,BREAD & CHOCOLATE Rolls Wheat Ciabatta 6ct.,bread,72
+76,MESTEMACHER Sunflower Seed Bread,bread,73
+81,MESTEMACHER Whole Rye Bread,bread,74
+86,JOSEPH'S Original Pita Bread,bread,75
+87,MESTEMACHER Organic Flax Seed Bread,bread,76
+88,CHABASO Ciabatta Bread,bread,77
+91,UDI'S Gluten Free Multi-Grain Sandwich Bread,bread,78
+92,RUDI'S Organic Multigrain Oat Bread,bread,79
+94,ALVARADO ST. BAKERY Organic Sprouted Barley Bread,bread,80
+95,UDI'S Gluten-Free Soft White Sandwich Bread,bread,81
+0,ORGANIC VALLEY Whole Milk 0.5gal.,milk,82
+1,ORGANIC VALLEY 0% Milk 0.5gal.,milk,83
+2,ARETHUSA FARM DAIRY 2% Reduced Fat Milk 0.5gal.,milk,84
+3,ORGANIC VALLEY 1% Milk 0.5gal.,milk,85
+4,ARETHUSA FARM DAIRY Whole Milk 0.5gal.,milk,86
+5,ORGANIC VALLEY 2% Milk 0.5gal.,milk,87
+7,MOUNTAIN DAIRY Milk Whole 1gal.,milk,88
+9,STONYFIELD FARM INC Organic Milk 2% 0.5gal,milk,89
+10,MOUNTAIN DAIRY Milk Whole 0.5gal.,milk,90
+11,MAPLE HILL CREAMERY Organic Milk Whole 0.5gal.,milk,91
+12,ARETHUSA FARM DAIRY Skim Milk 0.5gal.,milk,92
+13,ARETHUSA FARM DAIRY 1% Low-Fat Milk 0.5gal.,milk,93
+14,MOUNTAIN DAIRY Milk 2% 0.5gal.,milk,94
+16,MOUNTAIN DAIRY Milk 1% 1gal.,milk,95
+17,ARETHUSA FARM DAIRY Whole Milk 1pt.,milk,96
+19,ORGANIC VALLEY Whole Milk 1gal.,milk,97
+22,MOUNTAIN DAIRY Milk 2% 1gal.,milk,98
+23,FAIRLIFE Milk Fat Free  52fl,milk,99
+24,MOUNTAIN DAIRY Milk Skim 0.5gal.,milk,100
+25,ARETHUSA FARM DAIRY Chocolate Milk 1qt.,milk,101
+26,BLUE DIAMOND Almond Breeze Unsweetened Almond Coconut Milk 0.5gal.,milk,102
+27,ORGANIC VALLEY Half & Half Grassmilk 1pt.,milk,103
+29,LACTAID Milk 2% Reduced Fat 0.5gal.,milk,104
+30,ORGANIC VALLEY Whole Milk 1qt.,milk,105
+31,STONYFIELD FARM INC Organic Milk Whole 0.5gal,milk,106
+32,MOUNTAIN DAIRY Milk 1% 0.5gal.,milk,107
+33,OATLY! Oatmilk,milk,108
+34,STONYFIELD FARM INC Organic Milk 1% Low-Fat 0.5gal,milk,109
+36,CALIFORNIA FARMS Milk Evaporated,milk,110
+38,ARETHUSA FARM DAIRY Milk Chocolate 1pt.,milk,111
+39,ORGANIC VALLEY Lactose-Free Non-Fat Milk 0.5gal.,milk,112
+40,BALDWIN BROOK FARM Milk Raw 0.5gal.,milk,113
+41,HORIZON Organic Milk Whole 0.5gal.,milk,114
+42,LACTAID Milk 100% Fat Free 1qt.,milk,115
+43,PARMALAT Milk 2% Reduced Fat 1qt.,milk,116
+44,ORGANIC VALLEY Lactose-Free Whole Milk,milk,117
+45,ORGANIC VALLEY Lactose-Free 1% Milk 0.5gal.,milk,118
+46,ORGANIC VALLEY 2% Reduced Fat Milk 1qt.,milk,119
+47,ORGANIC VALLEY 1% Milk 1qt.,milk,120
+49,FAIRLIFE Whole Milk  52fl,milk,121
+51,HORIZON Organic Milk Chocolate 1% Low Fat 6ct.,milk,122
+52,ORGANIC VALLEY 1% Milk 12ct.,milk,123
+53,ORGANIC VALLEY Non-Fat Milk 1qt.,milk,124
+54,PARMALAT Milk Fat Free 1qt.,milk,125
+55,FAIRLIFE Milk 2%  52fl,milk,126
+57,ARETHUSA FARM DAIRY Milk Chocolate 0.5gal.,milk,127
+58,ORGANIC VALLEY 1% Chocolate Milk 12ct.,milk,128
+59,HORIZON Organic Milk Vanilla 1% Low Fat 12ct.,milk,129
+60,"RIPPLE Milk, Vanilla",milk,130
+61,RONNYBROOK Milk Chocolate,milk,131
+62,SILK Original Dairy-Free Plant Milk,milk,132
+0,"FARMER'S COW Large Brown Eggs, 1 Dozen",eggs,133
+1,HILLANDALE FARMS Eggs Extra-Large White 1 Dozen,eggs,134
+3,"PETE & GERRY's Organic Eggs Fresh Medium, 1 Dozen",eggs,135
+4,ORGANIC VALLEY Grade A Large Brown Eggs 1 Dozen,eggs,136
+5,NELLIE'S Eggs Large Brown Cage Free 1 Dozen,eggs,137
+7,HANDSOME BROOK FARMS Eggs Large 1 Dozen,eggs,138
+10,ORGANIC VALLEY Grade A Free-Range Large Brown Eggs 0.5 Dozen,eggs,139
+11,MOUNTAINSIDE FARMS Liquid Eggs White Cage Free 16oz,eggs,140
+12,FARMER'S COW Eggs Extra Large Brown 1 Dozen,eggs,141
+14,"PETE & GERRY's Organic Large Brown Eggs, 1 Dozen",eggs,142
+18,NELLIE'S Eggs Medium Brown Free Range 1 Dozen,eggs,143
+19,The Farmer's Hen Extra Large White Eggs 1 Dozen,eggs,144
+20,"THE FARMERS HEN Medium White Eggs, 1 Dozen",eggs,145
+22,"PETE & GERRY's Organic Large Brown Eggs, 0.5 Dozen",eggs,146
+25,"THE FARMERS HEN Large White Eggs, 1 Dozen",eggs,147
+29,EVOLVE Organic Eggs Large 0.5 Dozen,eggs,148
+30,PETE & GERRY's Eggs Extra Large Brown 0.5 Dozen,eggs,149
+2,CABOT Unsalted Butter Quarters,butter,150
+6,CABOT Salted Butter Quarters,butter,151
+8,KERRYGOLD Unsalted Pure Irish Butter 8oz.,butter,152
+9,KERRYGOLD Salted Pure Irish Butter 8oz.,butter,153
+13,ORGANIC VALLEY Unsalted Cultured Butter Quarters 1lb.,butter,154
+15,ARETHUSA FARM DAIRY Cultured Butter with Sea Salt,butter,155
+16,KATE'S CREAMERY Unsalted Butter Quarters 16oz.,butter,156
+17,KATE'S CREAMERY Sea Salted Butter Quarters 16oz.,butter,157
+21,PLUGRA European Style Salted Butter 8oz.,butter,158
+23,ORGANIC VALLEY Salted Butter Quarters 1lb.,butter,159
+24,PLUGRA European Style Unsalted Butter 8oz.,butter,160
+26,NELLIE'S Butter Unsalted,butter,161
+27,NELLIE'S Butter Salted,butter,162
+28,RODOLPHE LE MEUNIER Beurre de Baratte Hand Churned Butter w/ Sea Salt,butter,163
+0,CABOT Vermont Seriously Sharp Cheddar Cheese 8oz.,cheese,164
+1,CABOT Vermont Extra Sharp Cheddar Cheese 8oz.,cheese,165
+2,MT. VIKOS Traditional Feta Cheese,cheese,166
+3,"VERMONT CREAMERY Goat Cheese, Classic Chevre",cheese,167
+4,ANDREW & EVERETT Cheese-Mexican Mix Shredded,cheese,168
+5,APPLEGATE ORGANICS Muenster Cheese,cheese,169
+6,CABOT Vermont Sharp Cheddar Cheese Bar 8oz.,cheese,170
+7,LIUZZI CHEESE Mozzarella Fior Di Latte 1 LB,cheese,171
+8,PHILADELPHIA Cream Cheese Original Bar,cheese,172
+9,ANDREW & EVERETT Cheese-Swiss Sliced,cheese,173
+10,PINNA Pecorino Romano 1/3 LB,cheese,174
+11,Crumbled Feta (Per Pound),cheese,175
+12,LIUZZI CHEESE Fresh Mozzarella Nodini,cheese,176
+13,REDWOOD Goat Kefir Traditional Plain 1qt.,cheese,177
+14,LA QUESERIA ARTESANA 12 Month Manchego 1/2 LB,cheese,178
+15,ANDREW & EVERETT Cheese-Mild Cheddar Sliced,cheese,179
+16,APPLEGATE ORGANICS Sliced Cheddar Cheese,cheese,180
+17,ANDREW & EVERETT Cheese-Sharp Cheddar Shredded,cheese,181
+18,PHILADELPHIA Cream Cheese Whip,cheese,182
+19,VERMONT CREAMERY Coupole Aged Goat Cheese,cheese,183
+20,WOOLWICH Triple Creme Goat Brie,cheese,184
+21,LIUZZI CHEESE Hand-Wrapped Fior Di Latte Mozzarella,cheese,185
+22,ORGANIC VALLEY Cream Cheese Spread Tub,cheese,186
+23,TINE Jarlsberg  2/3 LB,cheese,187
+24,GOPI Low-Sodium Indian Style Paneer Cooking Cheese,cheese,188
+25,CABOT Vermont Seriously Sharp Shredded Cheddar Cheese 8oz.,cheese,189
+26,ANDREW & EVERETT Cheese-White American Sliced,cheese,190
+27,CALABRO Mozzarella Ciliegine 7oz.,cheese,191
+28,CABOT Sharp Cheddar Slices 8oz.,cheese,192
+29,ORGANIC VALLEY Cream Cheese Bar,cheese,193
+30,LIUZZI CHEESE Fresh Mozzarella Burrata,cheese,194
+31,ANDREW & EVERETT Cheese-Provolone Sliced,cheese,195
+32,RIVOIRE JAQUEMIN Comte 15 Month 1/2 LB,cheese,196
+33,LIUZZI CHEESE Ricotta Old Fashioned with Whole Milk 16oz.,cheese,197
+34,CALABRO Grated Parmesan Cheese,cheese,198
+35,APPLEGATE ORGANICS Sliced Mild Cheddar Cheese,cheese,199
+36,ANDREW & EVERETT Cheese-Mozzarella Strings,cheese,200
+37,CABOT Pepper Jack Cheese Block 8oz.,cheese,201
+38,PHILADELPHIA Cream Cheese Onion Chive,cheese,202
+39,FIRST MILK Mull of Kintyre,cheese,203
+40,ANDREW & EVERETT Cheese-Italian Mix Shredded,cheese,204
+41,VERMONT CREAMERY Fresh Goat Cheese Herb Chevre,cheese,205
+42,FORD FARM Coastal English Cheddar 3/4 LB,cheese,206
+43,Swiss Cheese ,cheese,207
+44,ELM CITY MARKET Blue Cheese Crumbles,cheese,208
+45,VOLPINI Prep Chopped Pancetta,cheese,209
+46,MAPLE LEAF CHEESE Wisconsin Sharp Cheddar 1/2 LB,cheese,210
+47,ORGANIC VALLEY Whole Milk Ricotta Cheese,cheese,211
+48,Provolone Cheese,cheese,212
+49,LA QUESERIA ARTESANA 4Month Manchego 1/2 LB,cheese,213
+50,VERMONT CREAMERY Mascarpone Italian-Style Cream Cheese,cheese,214
+51,GRAFTON VILLAGE CHEESE 2-Year Cheddar Each,cheese,215
+52,PHILADELPHIA Cream Cheese Soft Tub,cheese,216
+53,CABOT White American Cheese Singles 12oz.,cheese,217
+54,ATALANTA Halloumi,cheese,218
+55,MT VIKOS Barrel Aged Feta Cheese,cheese,219
+56,"EUPHRATES Feta Cheese Domestic, 3/4 LB",cheese,220
+57,APPLEGATE ORGANICS Sliced American Cheese,cheese,221
+58,SAINT ANDRE Triple Cream Brie 1/2 LB,cheese,222
+59,CABOT Yellow American Cheese Singles 12oz.,cheese,223
+60,CALABRO Grated Romano Cheese,cheese,224
+61,LA PANZANELLA Crackers Mini Groccantini,cheese,225
+62,APPLEGATE NATURALS Sliced Emmentaler Swiss Cheese,cheese,226
+63,CABOT Vermont Extra Sharp Cheddar Cheese Bar 8oz.,cheese,227
+64,ARTIKAAS Red Gouda 1/3 LB,cheese,228
+65,WESTFIELD FARM Capri Herb Garlic Goat Cheese,cheese,229
+66,CABOT New York Extra Sharp Cheddar Slices 8oz.,cheese,230
+67,LAUREL HILL Organic Olives Pimento Stuffed,cheese,231
+68,ANDREW & EVERETT Cheese-Mild Cheddar Shredded,cheese,232
+69,CALABRO String Cheese 12oz.,cheese,233
+70,LIUZZI CHEESE Mozzarella di Bufala,cheese,234
+71,KITE HILL Cream Cheese Plain Alternative,cheese,235
+72,RUMIANO Organic Cheese Monterey Jack,cheese,236
+73,PINNA Ricotta Salata 1/3 LB,cheese,237
+74,MONTCHEVRE Goat Cheese Crumbles,cheese,238
+75,PHILADELPHIA Cream Cheese Bar Light,cheese,239
+76,QUESO DEL VALLE Cotija,cheese,240
+77,EMMI Emmenthal 1/2 LB,cheese,241
+78,RUMIANO Organic Cheese Cheddar Sharp,cheese,242
+79,DAIYA Cheddar Style Shreds,cheese,243
+80,KING ISLAND CHEESE Murray Bridge Australian Cheddar 2/3 LB,cheese,244
+81,CALABRO Ricotta with Whole Milk 16oz.,cheese,245
+82,FROMAGER D'AFFINOIS Le Fromager 1/3 LB,cheese,246
+83,LIUZZI CHEESE Ciliegine Mozzarella ,cheese,247
+84,APPLEGATE ORGANICS Sliced Provolone Cheese,cheese,248
+85,LA PANZANELLA Crackers Mini Rosemary Groccantini,cheese,249
+86,QUESERIA DE LAS VILLUERCAS Ibores Raw Goat 1/4 LB,cheese,250
+87,THAT'S HOW WE ROLL Parmesan Crisp Original,cheese,251
+88,White American Cheese,cheese,252
+89,ELLSWORTH CREAMERY Cheddar Cheese Curds,cheese,253
+90,LIUZZI CHEESE Mozzarella 8oz.,cheese,254
+91,QUESO DEL VALLE Queso Fresco,cheese,255
+92,CALABRO Shredded Part-Skim Mozzarella 8oz.,cheese,256
+93,KASEREI TUFERTSCHWIL Challerhocker 1/3 LB,cheese,257
+94,CALABRO Part Skim Ricotta Cheese 16oz.,cheese,258
+95,CALABRO Shredded Mozarella 8oz.,cheese,259
+2,APPLEGATE NATURALS Uncured Sunday Bacon,bacon,260
+3,APPLEGATE ORGANICS Hickory Smoked Uncured Sunday Bacon,bacon,261
+5,APPLEGATE NATURALS Hickory Smoked Uncured Turkey Bacon,bacon,262
+6,APPLEGATE ORGANICS No Sugar Uncured Bacon,bacon,263
+7,NIMAN RANCH All-Natural Sugar-Free Applewood Smoked Uncured Bacon,bacon,264
+10,NIMAN RANCH All-Natural Applewood Smoked Uncured Bacon,bacon,265
+11,"Chicken, Bacon & Avocado Wrap",bacon,266
+12,Bacon Cheddar Burger (Per Pound),bacon,267
+13,LIGHTLIFE SMART Veggie Bacon Strips,bacon,268
+14,D'ARTAGNAN Slab Bacon (Per Pound),bacon,269
+16,BUSH'S Maple Cured Bacon,bacon,270
+18,"Chicken, Turkey Bacon & Ranch Wrap",bacon,271
+20,"RED'S Canadian Bacon, Egg, & Three Cheese Burrito",bacon,272
+23,D'ARTAGNAN Duck Bacon,bacon,273
+24,SCHLOTTERBECK & FOSS Chef Sauce Maple Bacon Chipotle,bacon,274
+26,D'ARTAGNAN Applewood Bacon,bacon,275
+28,LOUISVILLE VEGAN JERKY Paulette's Maple Bacon,bacon,276
+29,MORNINGSTAR FARMS Veggie Bacon Strips,bacon,277
+30,LIGHTLIFE FOODS Smart Bacon Meatless Veggie Bacon Strips,bacon,278
+32,CHUAO CHOCOLATIER Mini Chocolate Maple Bacon,bacon,279
+34,SWEET EARTH Vegan Hickory & Sage Benevolent Bacon  ,bacon,280
+35,"Fresh Express Salad, Kickin Bacon Ranch Chopped Salad Kit",bacon,281
+37,TRUE NORTH Bacon Wrapped Scallops,bacon,282
+38,BUDDY BISCUITS All-Natural Soft & Chewy Dog Treat with Bacon & Cheese,bacon,283
+41,"TOFURKY Treehouse Tempeh, Smoky Maple Bacon",bacon,284
+2,MI NINA Tortilla Chips White Corn,chips,285
+4,XOCHITL Corn Chips No Salt,chips,286
+5,"KETTLE Potato Chips, Sea Salt",chips,287
+6,GARDEN OF EATIN Organic Chips Blue Corn 16oz,chips,288
+8,"KETTLE Organic Potato Chips, Sea Salt",chips,289
+9,STACY'S PITA CHIPS Pita Chips Simply Naked,chips,290
+10,XOCHITL Tortilla Chips Salted,chips,291
+11,"KETTLE Avocado Oil Potato Chips, Himalayan Salt",chips,292
+12,FOOD SHOULD TASTE GOOD Tortilla Chips Multigrain,chips,293
+16,GARDEN OF EATIN Organic Chips Blue Corn 8.1oz,chips,294
+17,GARDEN OF EATIN Organic Chips Yellow Tortilla,chips,295
+18,FOOD SHOULD TASTE GOOD Tortilla Chips Blue Corn,chips,296
+19,"KETTLE Potato Chips, Backyard BBQ",chips,297
+20,STACY'S PITA CHIPS Pita Chips Multigrain,chips,298
+23,"KETTLE Potato Chips, Jalapeno",chips,299
+24,"KETTLE Potato Chips, Honey Dijon",chips,300
+26,"KETTLE Potato Chips, Sea Salt & Vinegar",chips,301
+27,STACY'S Everything Bagel Chips,chips,302
+28,TERRA Garlic & Herbs Mediterranean Vegetable Chips,chips,303
+29,"KETTLE Potato Chips, Sour Cream & Onion",chips,304
+31,FOOD SHOULD TASTE GOOD Tortilla Chips Sweet Potato 2,chips,305
+35,"KETTLE Organic Potato Chips, Country Style Barbeque",chips,306
+37,SIMPLY 7 Sea Salt Lentil Chips,chips,307
+38,INKA CROPS Plantain Chips Roasted,chips,308
+41,BARNANA Himalayan Pink Sea Salt Plantain Chips,chips,309
+42,MI NINA Tortilla Chips Agave Jalapeno,chips,310
+44,"KETTLE Potato Chips, Korean Barbeque",chips,311
+45,LATE JULY Organic Tortilla Chips Jalapeno Lime,chips,312
+46,POPCHIPS BBQ Potato Chips,chips,313
+48,GARDEN OF EATIN Organic Chips Sea Salt Multigrain,chips,314
+49,"KETTLE Potato Chips, Bourbon BBQ",chips,315
+50,PLANT SNACKS Vegan Cheddar Cassava Root Chips,chips,316
+51,QUE PASA Tortilla Chips,chips,317
+52,SIMPLY 7 Sea Salt Quinoa Chips,chips,318
+53,RW GARCIA Organic Corn Chips Bar-B-Q,chips,319
+54,STACY'S PITA CHIPS Pita Chips Parmesan Garlic Herb,chips,320
+55,GOOD HEALTH Sea Salt Veggie Chips,chips,321
+59,"KETTLE Krinkle Cut Potato Chips, Dill Pickle",chips,322
+67,"KETTLE Organic Potato Chips, Jalapeno",chips,323
+69,STACY'S PITA CHIPS Cinnamon Sugar,chips,324
+74,STACY'S PITA CHIPS Pita Crisps 5 Cheeses,chips,325
+78,GARDEN OF EATIN Organic Chips Blue Corn No Salt,chips,326
+80,POPCHIPS Ridges Cheddar & Sour Cream,chips,327
+85,LUKE'S ORGANIC Wavy Potato Chips,chips,328
+86,SIETE Sal y Limon Grain Free Tortilla Chips,chips,329
+87,STACY'S PITA CHIPS Pita Chips Garden Veggie Medley,chips,330
+91,GOOD HEALTH Kettle Style Sea Salt Avocado Oil Chips,chips,331
+93,"KETTLE Potato Chips, Farmstand Ranch",chips,332
+94,"KETTLE Potato Chips, Unsalted",chips,333
+95,LATE JULY Organic Chia & Quinoa Restaurant Style Tortilla Chips,chips,334
+3,BACK TO NATURE Cookies Sandwich Original,cookies,335
+5,Double Chocolate Chip Cookies ,cookies,336
+6,House-made All-Natural Oatmeal Raisin Cookies 6ct.,cookies,337
+8,Housebaked Snickerdoodle Cookies,cookies,338
+10,White Chocolate Chip Macadamia Cookies,cookies,339
+12,LOTUS Biscoff Coffee Cookies,cookies,340
+14,GLUTINO Gluten Free Super Stuffed Chocolate Vanilla Crème Cookies,cookies,341
+22,Lemon Cooler Cookies,cookies,342
+24,BACK TO NATURE Cookies Sandwich Peanut Butter,cookies,343
+25,BACK TO NATURE Organic Shortbread Cookies,cookies,344
+27,House-made All-Natural Everything Cookies 6ct.,cookies,345
+29,"DIVVIES Cookies, Chocolate Brownie",cookies,346
+30,QUEST Bar Cookies Cream,cookies,347
+31,House-made All-Natural Chocolate Chip Cookies 6ct.,cookies,348
+32,BACK TO NATURE Cookies Sand Chocolate Peanut Butter,cookies,349
+34,CASTOR & POLLUX Good Buddy Dog Cookies Pumpkin & Apple Flavor,cookies,350
+35,DELALLO Savoiardi Lady Fingers Cookies,cookies,351
+36,BACK TO NATURE Double Classic Cream Cookies,cookies,352
+37,LUCYS GF Chocolate Cookies,cookies,353
+40,BACK TO NATURE Chewy Oatmeal Raisin Cookies,cookies,354
+41,BACK TO NATURE Honey Graham Stick Cookies,cookies,355
+43,RUSTIC BAKERY Pumpkin Cookies,cookies,356
+44,Sugar Cookies (3 pack),cookies,357
+45,CYBELE'S Chocolate Chip Cookies,cookies,358
+46,UDI'S Cookies Peanut Butter Coconut,cookies,359
+47,BACK TO NATURE Cookies Mini Classic Crème,cookies,360
+48,BACK TO NATURE Fudge Mint Cookies,cookies,361
+49,BACK TO NATURE Mini Golden Cream Cookies,cookies,362
+50,"DIVVIES Cookies, Chocolate Chip",cookies,363
+51,"DIVVIES Cookies, Chocolate Chip Sandwich",cookies,364
+53,SUSTAIN INDULGE Lemon Ginger Chia Cookies,cookies,365
+54,BACK TO NATURE Fudge Stripe Cookies,cookies,366
+55,BACK TO NATURE Mini Classic Cream Cookies,cookies,367
+57,RUSTIC BAKERY Maple Leaf Sugar Cookies,cookies,368
+58,RUSTIC BAKERY Sweet Hearts Cookies,cookies,369
+60,BACK TO NATURE Lemon Wafer Cookies,cookies,370
+0,Limes (Each),fruit,371
+1,Navel Oranges (Each),fruit,372
+2,DRISCOLL'S  Strawberries 16oz.,fruit,373
+3,DARLING CLEMENTINES Seedless Mandarin Oranges 3lbs.,fruit,374
+4,Honeycrisp Apples (each),fruit,375
+5,Grapefruit (Each),fruit,376
+6,Blood Oranges (Per Pound),fruit,377
+7,Lemons (each),fruit,378
+8,Bananas (Two Pounds),fruit,379
+9,Organic Pink Grapefruit (Each),fruit,380
+10,Cantaloupes (Each),fruit,381
+11,Bosc Pears (Per Pound),fruit,382
+12,Pomegranate (Each),fruit,383
+13,Mangoes (Each),fruit,384
+14,Passion Fruit (Each),fruit,385
+15,Gala Apples (Per Pound),fruit,386
+16,DRISCOLL'S  Raspberries 6oz.,fruit,387
+17,Red Seedless Grapes (Each),fruit,388
+18,Plums Black (Per Pound),fruit,389
+19,McIntosh Apples (Per Pound),fruit,390
+20,Grapes Green Seedless (each),fruit,391
+21,Bartlett Pears (Per Pound),fruit,392
+22,DRISCOLL'S Blackberries 6oz.,fruit,393
+23,Gold Ripe Pineapple (Each),fruit,394
+24,Snap Dragon Apples (Per Pound),fruit,395
+25,Grapes Black Seedless (Per Pound),fruit,396
+26,D'Anjou Pears (Per Pound),fruit,397
+27,Hawaiian Papaya (Each),fruit,398
+28,Golden Delicious Apples (Per Pound),fruit,399
+29,DRISCOLL'S Blueberries 6oz.,fruit,400
+30,Bagged Lemons,fruit,401
+31,Fuji Apples (Per Pound),fruit,402
+32,Tangelos Minneola,fruit,403
+33,Rave Apples (Per Pound),fruit,404
+34,Peach Yellow,fruit,405
+35,Cotton Candy Grapes (Per Pound),fruit,406
+36,Bagged Navel Oranges 4lbs.,fruit,407
+37,Apricots (Per Pound),fruit,408
+38,Cara Cara Oranges,fruit,409
+39,Granny Smith Apples (Per Pound),fruit,410
+40,Watermelon Seedless (each),fruit,411
+41,Red Delicious Apples (Per Pound),fruit,412
+42,Evercrisp Apples (Per Pound),fruit,413
+43,GRACIE'S KITCHEN Watermelon Spears 24oz.,fruit,414
+44,Pink Lady Apples (Per Pound),fruit,415
+45,OCEAN SPRAY Cranberries ,fruit,416
+46,Cantalope Chunks,fruit,417
+47,Honeydew Chunks,fruit,418
+48,Watermelon Personal ea.,fruit,419
+49,Cara Cara Oranges (Per Pound),fruit,420
+50,Sumo Oranges,fruit,421
+51,GRACIE'S KITCHEN Assorted Fruit Spears 24oz.,fruit,422
+52,Evercrisp Apple (Per Pound),fruit,423
+53,Dragon Fruit (Per Pound),fruit,424
+54,GRACIE'S KITCHEN Mango Spears 16oz,fruit,425
+55,GRACIE'S KITCHEN Honeydew Chunks,fruit,426
+56,GRACIE'S KITCHEN Pineapple Spears 16oz.,fruit,427
+57,Persimmon (each),fruit,428
+58,Bosc Pears,fruit,429
+59,GRACIE'S KITCHEN Pineapple Chunks,fruit,430
+60,GRACIE'S KITCHEN Watermelon Chunks,fruit,431
+61,GRACIE'S KITCHEN Mango Berry Cup,fruit,432
+62,GRACIE'S KITCHEN Mixed Fruit Cup,fruit,433
+63,Plums Red,fruit,434
+64,Black Mission Figs (Each),fruit,435
+65,LIL SNAPPERS Fuji Apples 3lbs.,fruit,436
+66,GRACIE'S KITCHEN Grape + Berry Cup,fruit,437
+67,GRACIE'S KITCHEN Cantaloupe Chunks,fruit,438
+68,GRACIE'S KITCHEN Tropical Fruit Cup,fruit,439
+69,Apple Fuji (Per Pound),fruit,440
+70,GRACIE'S KITCHEN Island Mix Fruit Cup,fruit,441
+0,ARETHUSA FARM DAIRY Vanilla Ice Cream 1pt.,ice cream,442
+1,ARETHUSA FARM DAIRY Sweet Cream Chocolate Chip Ice Cream 1pt.,ice cream,443
+2,ARETHUSA FARM DAIRY Chocolate Ice Cream 1pt.,ice cream,444
+3,ALDEN'S Organic Old School Vanilla Ice Cream Sandwich 6ct.,ice cream,445
+4,ARETHUSA FARM DAIRY Coffee Ice Cream 1pt.,ice cream,446
+6,ARETHUSA FARM DAIRY Mint Chip Ice Cream 1pt.,ice cream,447
+7,ARETHUSA FARM DAIRY Strawberry Ice Cream 1pt.,ice cream,448
+8,SO DELICIOUS Mint Chip Coconut Milk Ice Cream 1pt.,ice cream,449
+9,SO DELICIOUS Vanilla Bean Coconut Milk Ice Cream 1pt.,ice cream,450
+11,ALDEN'S Organic Vanilla Creme Ice Cream 14oz,ice cream,451
+12,COOLHAUS Ice Cream Salted Caramel 1pt.,ice cream,452
+15,ALDEN'S Organic French Vanilla Ice Cream,ice cream,453
+17,COOLHAUS Bananas Foster Ice Cream 1pt.,ice cream,454
+18,MY/MO Green Tea Mochi Ice Cream,ice cream,455
+19,COOLHAUS Cookie Dough Life Ice Cream 1pt.,ice cream,456
+21,ENLIGHTENED Fudge Ice Cream Bars,ice cream,457
+24,BUBBIES Mango Mochi Ice Cream,ice cream,458
+25,ENLIGHTENED Chocolate Ice Cream,ice cream,459
+26,BUBBIES Strawberry Mochi Ice Cream,ice cream,460
+29,HALO TOP CREAMERY Vanilla Bean Ice Cream 1pt.,ice cream,461
+30,BEN & JERRY'S Vanilla Ice Cream 1pt.,ice cream,462
+31,SO DELICIOUS Chocolate Coconut Milk Ice Cream 1pt.,ice cream,463
+35,MAXINE'S Organic Vanilla Bean Ice Cream 1.5qt,ice cream,464
+36,MY/MO Mango Mochi Ice Cream,ice cream,465
+41,ENLIGHTENED Chocolate Peanut Butter 100 Calorie Ice Cream 1pt.,ice cream,466
+45,ENLIGHTENED Snickerdoodle Ice Cream 1pt.,ice cream,467
+46,ENLIGHTENED Chocolate Chip Cookie Dough 100 Calorie Ice Cream 1pt.,ice cream,468
+50,HALO TOP CREAMERY Black Cherry Ice Cream 1pt.,ice cream,469
+51,HALO TOP CREAMERY Pistachio Ice Cream 1pt.,ice cream,470
+52,HALO TOP CREAMERY Strawberry Ice Cream 1pt.,ice cream,471
+54,BEN & JERRY'S Chunky Monkey Ice Cream 1pt.,ice cream,472
+55,HALO TOP CREAMERY S'mores Ice Cream 1pt.,ice cream,473
+56,WINK FROZEN DESSERTS Gluten-Free Dairy-Free Cocoa Dough Ice Cream Alternative 1pt.,ice cream,474
+59,HALO TOP CREAMERY Oatmeal Cookie Ice Cream 1pt.,ice cream,475
+60,HALO TOP CREAMERY Blueberry Crumble Ice Cream 1pt.,ice cream,476
+61,HALO TOP CREAMERY Mint Chip Ice Cream 1pt.,ice cream,477
+63,MY/MO Dulce De Leche Mochi Ice Cream,ice cream,478
+65,SO DELICIOUS Almond Milk Vanilla Ice Cream 1pt.,ice cream,479
+67,COOLHAUS Cereal Dreams Ice Cream 1pt.,ice cream,480
+72,HALO TOP CREAMERY Rainbow Ice Cream 1pt.,ice cream,481
+73,HALO TOP CREAMERY Strawberry Light Ice Cream 1pt.,ice cream,482
+76,Alden's Ice Cream Caramel Drizzle Dairy Free ,ice cream,483
+77,Alden's Ice Cream OG2 Sandwich Mint Fudge 14oz,ice cream,484
+78,Alden's Ice Cream Organic French Vanilla 48fl,ice cream,485
+79,Alden's Ice Cream Vanilla Bean Sammie ,ice cream,486
+80,Alden's Peanut Butter Fudge Ice Cream 48oz,ice cream,487
+81,Ice Cream Bar Organic Vanilla Dark Chocolate,ice cream,488
+0,"BARILLA Pasta, Fettuccine",pasta,489
+1,DECECCO Pasta Rigatoni,pasta,490
+4,"PASTA COSI Marinara Pasta Sauce, No Sugar Added",pasta,491
+5,"BARILLA Pasta, Spaghetti",pasta,492
+9,RAO'S Pasta Sauce Marinara,pasta,493
+10,MONTEBELLO Organic Pasta Orecchiette,pasta,494
+11,MONTEBELLO Organic Pasta Semo Fusilli,pasta,495
+13,"BARILLA Pasta, Rotini",pasta,496
+17,DECECCO Pasta Spaghetti,pasta,497
+18,MONTEBELLO Organic Pasta Semo Farfalle,pasta,498
+20,"BARILLA Pasta, Orzo",pasta,499
+21,"BARILLA Pasta, Penne",pasta,500
+28,"BARILLA Pasta, Angel Hair",pasta,501
+31,MONTEBELLO Organic Pasta Conchiglie,pasta,502
+32,HUNTS Pasta Sauce Plain,pasta,503
+33,"BARILLA Pasta, Oven-Ready Lasagne",pasta,504
+42,"BARILLA Pasta, Farfalle",pasta,505
+43,"BARILLA Pasta, Rigatoni",pasta,506
+44,AMY'S Organic Tomato Basil Pasta Sauce,pasta,507
+52,AL DENTE PASTA COMPANY Fettuccine Wild Mushroom,pasta,508
+60,PASTA COSI Sauce Roasted Garlic,pasta,509
+61,"BARILLA Pasta, Jumbo Shells",pasta,510
+63,MONTEBELLO Organic Pasta Torchiette,pasta,511
+64,MEZZETTA Pasta Sauce Marinara ItalianTomato,pasta,512
+66,PASTA COSI Sauce Vodka,pasta,513
+67,AL DENTE PASTA COMPANY Fettuccine Squid Ink,pasta,514
+69,MONTEBELLO Organic Pasta Orzo,pasta,515
+70,"BARILLA Pasta, Lasagne",pasta,516
+71,DAVE'S GOURMET Organic Red Heirloom Pasta Sauce,pasta,517
+72,PASTA COSI Sauce Puttanesca,pasta,518
+73,RAO'S  Soup Pasta & Fagioli,pasta,519
+74,DELALLO Bucatini Pasta,pasta,520
+75,EXPLORE CUISINE Rice Pasta Brown Rigatoni,pasta,521
+76,MEZZETTA Pasta Sauce Truffle Porcini Cream,pasta,522
+77,RAO'S Pasta Sauce Sensitive Formula,pasta,523
+78,RAO'S Pasta Sauce Vodka,pasta,524
+81,CONTES PASTA  Ravioli Cheese Gluten Free,pasta,525
+82,RAO'S Pasta Sauce 4 Cheese,pasta,526
+89,LUCINI Pasta Sauce Tomato Basil,pasta,527
+94,CHICKAPEA PASTA Organic Penne,pasta,528
+1,"NATURE'S PATH Organic Cereal, Flax Plus & Raisin Bran",cereal,529
+3,"CASCADIAN FARMS Organic Cereal, Raisin Bran",cereal,530
+6,CASCADIAN FARMS Organic Cereal 2 Multi Grain Square,cereal,531
+7,"NATURE'S PATH Organic Cereal, Multibran Flakes",cereal,532
+8,"CASCADIAN FARMS Organic Cereal, Honey Oat Crunch",cereal,533
+9,"NATURE'S PATH Organic Cereal, Honey'd Corn Flakes",cereal,534
+10,"NATURE'S PATH Organic Cereal, Heritage Flakes",cereal,535
+11,"KASHI Organic Cereal, Cinnamon Harvest",cereal,536
+12,"NATURE'S PATH Organic Cereal, Blueberry Cinnamon Flax",cereal,537
+14,"BOB'S RED MILL Cereal Muesli, Fruit & Seed",cereal,538
+16,"BARBARA'S Cereal, Peanut Butter Puffins",cereal,539
+18,"NATURE'S PATH Organic Cereal, Pumpkin Raisin Crunch with Flax",cereal,540
+20,"ARROWHEAD MILLS Organic Cereal, Spelt Flakes",cereal,541
+21,"BARBARA'S Cereal, Morning Oat Crunch",cereal,542
+22,"FIELD DAY Organic Cereal, Whole Grain Cinnamon Crunch",cereal,543
+23,"NATURE'S PATH Organic Cereal, Heritage Crunch",cereal,544
+24,"ARROWHEAD MILLS Organic Cereal, Amaranth Flakes",cereal,545
+28,"NATURE'S PATH Organic Cereal, Sunrise Crunchy Vanilla",cereal,546
+29,"NATURE'S PATH Organic Cereal, Flax Plus Maple Pecan Crunch",cereal,547
+30,"BARBARA'S Gluten-Free Cereal, Multigrain Puffins",cereal,548
+31,"KASHI Organic Cereal, Island Vanilla",cereal,549
+32,"BOB'S RED MILL Cereal Muesli, Tropical",cereal,550
+33,"BARBARA'S Cereal, Peanut Butter & Chocolate Puffins",cereal,551
+34,"KASHI Organic Cereal, Berry Fruitful",cereal,552
+38,"BARBARA'S Cereal, Honey Rice Puffins",cereal,553
+39,"CASCADIAN FARMS Organic Cereal, Vanilla Chia Crunch",cereal,554
+43,"NATURE'S PATH Organic Cereal, Almond Nut Butter Crunch",cereal,555
+44,"NATURE'S PATH Organic Cereal, Crunchy Cinnamon Sunrise",cereal,556
+49,"KASHI Cereal, Dark Cocoa Karma",cereal,557
+50,"MOM'S BEST Gluten-Free Rice Cereal, Crispy Cocoa",cereal,558
+52,"BOB'S RED MILL Cold Cereal Muesli, Paleo",cereal,559
+55,"NATURE'S PATH Organic Cereal, Smart Bran",cereal,560
+59,"NATURE'S PATH Organic Cereal, Purple Acai",cereal,561
+60,"ARROWHEAD MILLS Hot Cereal, Gluten-Free Quinoa & Oat",cereal,562
+64,"LOVE GROWN FOODS Cereal, Fruity Sea Stars",cereal,563
+66,"BARBARA'S Cereal, Puffins Protein Berry Burst",cereal,564
+74,"NATURE'S PATH Organic Cereal, Coconut & Cashew Nut Butter Crunch",cereal,565
+80,"NATURE'S PATH Organic Cereal, Honey & Peanut Nut Butter Crunch",cereal,566
+81,"NATURE'S PATH ENVIROKIDZ Organic Cereal, Berry Blast Cheetah Chomps",cereal,567
+0,"Alvarado St. Bakery Freshly Sprouted Wheat California Style, Bread, 24 Ounce",bread,568
+3,"Alvarado St. Bakery Freshly Sprouted Wheat Low Glycemic, Bread, 24 Ounce",bread,569
+4,"Alvarado St. Bakery Freshly Sprouted Wheat Multigrain, Bread, 24 Ounce",bread,570
+7,"Alvarado St. Bakery No Salt Added Freshly Sprouted Wheat Multigrain, Bread, 24 Ounce",bread,571
+8,"Alvarado St. Bakery Sprouted Flax Seed, Bread, 16 Ounce",bread,572
+9,"Bowl & Basket Authentic Sourdough, Country Loaf, 24 Ounce",bread,573
+12,"Bowl & Basket Authentic, Sourdough Boule, 16 Ounce",bread,574
+13,"Bowl & Basket Classic, Ciabatta Loaf, 14 Ounce",bread,575
+14,"Bowl & Basket Garlic, Ciabatta Loaf, 14 Ounce",bread,576
+15,"Bowl & Basket Kneaded Grain, Ciabatta Loaf, 14 Ounce",bread,577
+18,"Bowl & Basket Loaf Ancient Grain Artisan, Bread, 16 Ounce",bread,578
+19,"Bowl & Basket Olive Oil, Ciabatta Loaf, 14 Ounce",bread,579
+20,"Bowl & Basket Rosemary Olive Oil, Ciabatta Loaf, 14.5 Ounce",bread,580
+21,"Bowl & Basket Wheat, Ciabatta Loaf, 1 Each",bread,581
+22,"Calandra Whole Wheat Panella, 1 Each",bread,582
+25,"Calandra's Fresh French Bread, 12 Ounce",bread,583
+26,"Calandra's Italian & French Bakery Delicious Semolina Brick Oven Baked, Bread, 10 Ounce",bread,584
+27,"Calandra's Italian & French Bakery Hearth Oven Baked Medium, Panella Bread, 21 Ounce",bread,585
+28,"Calandra's Italian & French Bakery Old World, Bastone Bread, 12 Ounce",bread,586
+29,"Cheesecake Factory Wheat Dinner Rolls, 11.2 Ounce",bread,587
+30,"Concord Bakery Mini Loaves, Cornbread, 1 Each",bread,588
+31,"Euro Classic Authentic Brioche, Burger Buns, 10.58 Ounce",bread,589
+32,"Euro Classic Authentic Brioche, Dinner Rolls, 16.9 Ounce",bread,590
+33,"Euro Classic Authentic Butter Braided, Brioche, 1 Each",bread,591
+34,"Euro Classic Authentic French Brioche, Hot Dog Buns, 10.58 Ounce",bread,592
+37,"Euro Classic Authentic French Cinnamon Raisin, Brioche, 15.87 Ounce",bread,593
+38,"FRESH BAKE 4 PK CIABATTA ROLLS  , 12 Ounce",bread,594
+39,"FRESH BAKE 4PK WHEAT CIABATTA   , 12 Ounce",bread,595
+40,"FRESH BAKE 6PK SEMOLI HERO ROLLS, 20 Ounce",bread,596
+41,"Fresh Bake Shop 12 Pack Medium Kaiser Rolls, 18 Ounce",bread,597
+0,"a2 Milk 2% Reduced Fat, Milk, 59 Fluid ounce",milk,598
+3,"a2 Milk Whole , Milk, 59 Fluid ounce",milk,599
+4,"Bowl & Basket 1% Low Fat, Chocolate Milk, 1 Gallon",milk,600
+7,"Bowl & Basket 1% Low Fat, Milk, 1 Gallon",milk,601
+8,"Bowl & Basket 1% Low Fat, Milk, 0.5 Gallon",milk,602
+9,"Bowl & Basket 1% Low Fat, Milk, 32 Quart",milk,603
+12,"Bowl & Basket 2% Reduced Fat, Milk, 1 Gallon",milk,604
+13,"Bowl & Basket 2% Reduced Fat, Milk, 0.5 Gallon",milk,605
+14,"Bowl & Basket 2% Reduced Fat, Milk, 1 Each",milk,606
+15,"Bowl & Basket 2% Reduced Fat, Milk, 1 Each",milk,607
+18,"Bowl & Basket Chocolate Milk, 0.5 Gallon",milk,608
+19,"Bowl & Basket Chocolate Milk, 1 Pint",milk,609
+20,"Bowl & Basket Fat Free, Milk, 1 Gallon",milk,610
+21,"Bowl & Basket Fat Free, Milk, 0.5 Gallon",milk,611
+22,"Bowl & Basket Fat Free, Milk, 32 Quart",milk,612
+25,"Bowl & Basket Lactose Free 2% Reduced Fat, Milk, 0.5 Gallon",milk,613
+26,"Bowl & Basket Lactose Free Calcium Enriched 2% Reduced Fat, Milk, 0.5 Gallon",milk,614
+27,"Bowl & Basket Lactose Free Calcium Enriched Fat Free, Milk, 0.5 Gallon",milk,615
+28,"Bowl & Basket Lactose Free Fat Free, Milk, 0.5 Gallon",milk,616
+29,"Bowl & Basket Lactose Free Whole, Milk, 0.5 Gallon",milk,617
+30,"Bowl & Basket Light Cultured, Buttermilk, 32 Fluid ounce",milk,618
+31,"Bowl & Basket Milk Lactose Free 1% Low Fat, 0.5 Gallon",milk,619
+32,"Bowl & Basket Whole Milk, 1 Gallon",milk,620
+33,"Bowl & Basket Whole Milk, 0.5 Gallon",milk,621
+34,"Bowl & Basket Whole Milk, 32 Quart",milk,622
+37,"Chobani Nog Flavored Holiday Limited Batch, Oat Milk Drink, 32 Fluid ounce",milk,623
+38,"Fairlife 2% Chocolate Bottle, Milk, 52 Fluid ounce",milk,624
+39,"Fairlife 2% Reduced Fat, Ultra-Filtered Milk, 52 Fluid ounce",milk,625
+40,"Fairlife DHA Omega-3 Reduced Fat Ultra-Filtered, Milk, 1.5 Each",milk,626
+41,"Fairlife Fat Free, Ultra-Filtered Milk, 1.5 Each",milk,627
+0,"Bowl & Basket Cage Free Brown Large, Eggs, 12 Each",eggs,628
+1,"Bowl & Basket Cage Free Hard-Cooked Peeled, Eggs, 6 Each",eggs,629
+2,"Bowl & Basket Cage Free Liquid, Egg Whites, 32 Ounce",eggs,630
+3,"Bowl & Basket Extra Large White, Eggs, 12 Each",eggs,631
+4,"Bowl & Basket Fresh White Jumbo, Eggs, 12 Each",eggs,632
+5,"Bowl & Basket Fresh White Large, Eggs, 18 Each",eggs,633
+6,"Bowl & Basket Fresh White Large, Eggs, 12 Each",eggs,634
+7,"Bowl & Basket Specialty Free Range Fresh Brown Large, Egg, 12 Each",eggs,635
+8,"Bowl & Basket White Large, Eggs, 30 Each",eggs,636
+9,"Bowl & Basket White Large, Eggs, 6 Each",eggs,637
+10,"Bowl & Basket White Large, Eggs, 120 Ounce",eggs,638
+11,"Egg Land's Best Free Range Large Brown, Eggs, 12 Each",eggs,639
+12,"Egg Land's Best Large Brown Pasture Raised, Eggs, 12 Each",eggs,640
+13,"Egg-Land's Best Brown Large, Eggs, 12 Each",eggs,641
+14,"Egg-Land's Best Cage Free Brown Large, Eggs, 18 Each",eggs,642
+15,"Egg-Land's Best Cage Free Large Brown, Eggs, 12 Each",eggs,643
+16,"Egg-Land's Best Extra Large, Eggs, 18 Each",eggs,644
+17,"Egg-Land's Best Extra Large, Eggs, 12 Each",eggs,645
+18,"Egg-Land's Best Jumbo, Eggs, 12 Each",eggs,646
+19,"Egg-Land's Best Large, Eggs, 18 Each",eggs,647
+20,"Egg-Land's Best Large, Eggs, 24 Each",eggs,648
+21,"Egg-Land's Best Organic Brown Large, Eggs, 1 Each",eggs,649
+22,"Eggland's Best Eggs - Hard Cooked, 6 Each",eggs,650
+23,"Eggland's Best Large White Eggs, 12 Each",eggs,651
+24,"Eggland's Best Organic Hard Cooked Peeled Eggs, 9.3 Ounce",eggs,652
+25,"Land O Lakes Brown Jumbo, Eggs, 12 Each",eggs,653
+26,"Land O Lakes Brown Large, Eggs, 12 Each",eggs,654
+27,"Land O'Lakes 1 Dozen Grade A Extra Large Brown Eggs, 12 Each",eggs,655
+28,"Mountainside Farms Cage Free Natural Large Brown, Eggs, 1 Ounce",eggs,656
+29,"Nature's Yoke Free-Range Brown Large, Eggs, 12 Each",eggs,657
+0,"Bowl & Basket Spreadable with Canola Oil, Butter, 8 Ounce",butter,658
+3,"Bowl & Basket Sweet Cream Salted, Butter, 16 Ounce",butter,659
+4,"Bowl & Basket Sweet Cream Unsalted, Butter, 1 Pound",butter,660
+7,"Bowl & Basket Whipped Salted, Butter, 8 Ounce",butter,661
+8,"Breakstone's All Natural Salted, Butter, 16 Ounce",butter,662
+9,"Breakstone's All Natural Salted, Butter, 8 Ounce",butter,663
+12,"Breakstone's All Natural Salted, Whipped Butter, 8 Ounce",butter,664
+13,"Breakstone's All Natural Unsalted, Butter, 8 Ounce",butter,665
+14,"Breakstone's All Natural Unsalted, Butter, 16 Ounce",butter,666
+15,"Breakstone's All Natural Unsalted, Whipped Butter, 8 Ounce",butter,667
+18,"D'Artagnan White Truffle, Butter, 3 Ounce",butter,668
+19,"Hotel Bar Salted, Butter, 16 Ounce",butter,669
+20,"Hotel Bar Unsalted, Butter, 16 Ounce",butter,670
+21,"Keller's Creamery Salted, Butter, 16 Ounce",butter,671
+22,"Keller's Creamery Unsalted, Butter, 16 Ounce",butter,672
+25,"Kerrygold Garlic & Herb, Butter, 3.5 Ounce",butter,673
+26,"Kerrygold Irish with Olive Oil, Butter, 7.5 Ounce",butter,674
+27,"Kerrygold Pure Irish, Butter, 8 Ounce",butter,675
+28,"Kerrygold Pure Irish, Butter, 8 Ounce",butter,676
+30,"Kerrygold Unsalted Pure Irish, Butter, 8 Ounce",butter,677
+31,"Kerrygold Unsalted Sticks Pure Irish, Butter, 8 Ounce",butter,678
+32,"Land O Lakes Butter with Canola Oil Plus Calcium & Vitamin D, Spread, 15 Ounce",butter,679
+33,"Land O Lakes Butter with Canola Oil, Spread, 15 Ounce",butter,680
+34,"Land O Lakes Butter with Canola Oil, Spread, 8 Ounce",butter,681
+37,"Land O Lakes Butter with Canola Oil, Spread, 24 Ounce",butter,682
+38,"Land O Lakes Light Butter with Canola Oil, Spread, 8 Ounce",butter,683
+39,"Land O Lakes Light Butter with Canola Oil, Spread, 24 Ounce",butter,684
+40,"Land O Lakes Olive Oil and Sea Salt, Spread, 21 Ounce",butter,685
+41,"Land O Lakes Olive Oil and Sea Salt, Spreadable Butter , 7 Ounce",butter,686
+0,"Boar's Head American, Cheese, 8 Ounce",cheese,687
+1,"Boar's Head Monterey Jack Cheese, 8 Ounce",cheese,688
+2,"Boar's Head White Vermont Cheddar Cheese, 8 Ounce",cheese,689
+3,"Boars Head Imported Switzerland Swiss, Cheese, 7 Ounce",cheese,690
+4,"Borden American 2% Milk Singles, Cheese, 12 Ounce",cheese,691
+5,"Borden American Fat Free Singles, Cheese, 12 Ounce",cheese,692
+6,"Borden American Lactose Free Singles, Cheese, 8 Ounce",cheese,693
+7,"Borden American Pasteurized Sliced Process, Cheese, 6 Ounce",cheese,694
+8,"Borden American Singles, Cheese, 12 Ounce",cheese,695
+9,"Borden Kid Builder Low-Moisture Part-Skim Mozzarella, String Cheese, 12 Ounce",cheese,696
+10,"Borden Low-Moisture Part-Skim Mozzarella, String Cheese, 12 Ounce",cheese,697
+11,"Borden Melts Grilled, Cheese, 12 Ounce",cheese,698
+12,"Borden Mild Cheddar Sliced, Cheese, 6 Ounce",cheese,699
+13,"Borden Muenster Sliced, Cheese, 6 Ounce",cheese,700
+14,"Borden Pepper Jack Sliced, Cheese, 6 Ounce",cheese,701
+15,"Borden Provolone, Sliced Cheese, 6 Ounce",cheese,702
+16,"Borden Sharp 2% Milk Singles, Cheese, 12 Ounce",cheese,703
+17,"Borden Sharp Cheddar Sliced, Cheese, 6 Ounce",cheese,704
+18,"Borden Swiss, Sliced Cheese, 5 Ounce",cheese,705
+19,"Borden White American Singles, Cheese, 12 Ounce",cheese,706
+20,"Bowl & Basket 2% Milk Singles White, Cheese, 12 Ounce",cheese,707
+21,"Bowl & Basket 2% Milk Singles Yellow, Cheese, 12 Ounce",cheese,708
+22,"Bowl & Basket Colby & Monterey Jack, Cheese Sticks, 10 Ounce",cheese,709
+23,"Bowl & Basket Colby Jack Natural, Cheese, 8 Ounce",cheese,710
+24,"Bowl & Basket Cracker Cuts Extra Sharp Cheddar, Cheese, 10 Ounce",cheese,711
+25,"Bowl & Basket Cracker Cuts Mild Cheddar, Cheese, 10 Ounce",cheese,712
+26,"Bowl & Basket Cracker Cuts New York Sharp White, Cheddar Cheese, 10 Ounce",cheese,713
+27,"Bowl & Basket Cracker Cuts Pepper Jack, Cheese, 10 Ounce",cheese,714
+28,"Bowl & Basket Cracker Cuts Sharp Cheddar, Cheese, 10 Ounce",cheese,715
+29,"Bowl & Basket Cracker Cuts Swiss, Cheese, 9 Ounce",cheese,716
+0,"Al Fresco Apple Maple with Vermont Maple Syrup, Chicken Breakfast Sausage, 7.5 Ounce",bacon,717
+3,"Al Fresco Country Style, Chicken Breakfast Sausage, 7.5 Ounce",bacon,718
+4,"Al Fresco Original Uncured Chicken, Bacon, 8 Ounce",bacon,719
+7,"Applegate Naturals Hickory Smoked No Sugar Uncured, Bacon, 8 Ounce",bacon,720
+8,"Applegate Naturals Hickory Smoked Uncured Sunday, Bacon, 8 Ounce",bacon,721
+9,"APPLEGATE Naturals Hickory Smoked Uncured Thick Cut, Bacon, 12 Ounce",bacon,722
+12,"Applegate Naturals Hickory Smoked Uncured Turkey, Bacon, 8 Ounce",bacon,723
+13,"Arnold's Premium Smoked Beef, Bacon, 12 Ounce",bacon,724
+14,"Black Label Natural Hardwood Smoke Lower Sodium, Bacon, 454 Gram",bacon,725
+15,"Black Label Natural Hardwood Smoke Microwave Ready Original, Bacon, 12 Ounce",bacon,726
+18,"Black Label Natural Hardwood Smoke Original, Bacon, 454 Gram",bacon,727
+19,"Black Label Natural Hardwood Smoke Thick Cut, Bacon, 1 Pound",bacon,728
+20,"Black Label Naturally Hardwood Smoked Applewood Thick Cut, Bacon, 12 Ounce",bacon,729
+21,"Boar's Head Butcher Craft Thick cut, Bacon, 12 Ounce",bacon,730
+22,"Boar's Head Butcher Craft Thick Cut, Bacon, 20 Ounce",bacon,731
+25,"Bob Evans Maple, Pork Sausage Links, 12 Ounce",bacon,732
+26,"Bob Evans Maple, Pork Sausage Patties, 12 Ounce",bacon,733
+27,"Bowl & Basket Applewood Smoked, Bacon, 1 Pound",bacon,734
+28,"Bowl & Basket Hickory Smoked Tangy, Pork Roll, 24 Ounce",bacon,735
+29,"Bowl & Basket Hickory Smoked, Pork Roll, 24 Ounce",bacon,736
+30,"Bowl & Basket Lower Sodium Sliced, Bacon, 1 Pound",bacon,737
+31,"Bowl & Basket Original, Bacon, 1 Pound",bacon,738
+32,"Bowl & Basket Thick Slices Hickory Smoked Mild, Pork Roll, 6 Ounce",bacon,739
+33,"Bowl & Basket Thin Slices Mild, Pork Roll, 6 Ounce",bacon,740
+34,"Bowl & Basket Thin Slices Tangy, Pork Roll, 6 Ounce",bacon,741
+37,"Butterball Lower Sodium, Turkey Bacon, 12 Ounce",bacon,742
+38,"Butterball Original, Turkey Bacon, 12 Ounce",bacon,743
+39,"Case's Hickory Smoked Mild, Pork Roll, 6 Ounce",bacon,744
+40,"case's Pork Roll, 6 Pound",bacon,745
+41,"case's Pork Roll, 24 Ounce",bacon,746
+0,"Deep River Snacks Krinkle Cut Sour Cream & Onion Flavored Kettle Cooked, Potato Chips, 5 Ounce",chips,747
+1,"Deep River Snacks Maui Onion Flavored Kettle Cooked, Potato Chips, 5 Ounce",chips,748
+2,"Deep River Snacks Mesquite BBQ Flavored Kettle Cooked, Potato Chips, 5 Ounce",chips,749
+3,"Deep River Snacks Mesquite BBQ Kettle Chips, 2 Ounce",chips,750
+4,"Deep River Snacks Original Salted Kettle Chips, 2 Ounce",chips,751
+5,"Deep River Snacks Original Sea Salt Kettle Cooked, Potato Chips, 5 Ounce",chips,752
+6,"Deep River Snacks Rosemary & Olive Oil Kettle Chips, 2 Ounce",chips,753
+7,"Deep River Snacks Sea Salt & Vinegar Flavored Kettle Cooked, Potato Chips, 2 Ounce",chips,754
+8,"Deep River Snacks Sea Salt & Vinegar Flavored Kettle Cooked, Potato Chips, 5 Ounce",chips,755
+9,"Deep River Snacks Sweet Maui Onion Kettle Chips, 2 Ounce",chips,756
+10,"Deep River Snacks Zesty Jalapeño Flavored, Kettle Cooked Potato Chips, 5 Ounce",chips,757
+11,"Good Health Avocado Oil Lime Ranch Kettle Style, Potato Chips, 5 Ounce",chips,758
+12,"Good Health Avocado Oil Sea Salted Kettle Style, Potato Chips, 5 Ounce",chips,759
+13,"Good Health Avocado Oil Sea Salted Kettle Style, Potato Chips, 16 Ounce",chips,760
+14,"Good Health Sweet Potato Sea Salted Kettle Style, Potato Chips, 5 Ounce",chips,761
+15,"Herr's  Kettle Cooked Cracked Pepper & Sea Salt Flavored, Potato Chips, 7.5 Ounce",chips,762
+16,"Herr's  Kettle Cooked Mesquite BBQ Flavored, Potato Chips, 7.5 Ounce",chips,763
+17,"Herr's Baked! Cheddar & Sour Cream Flavored, Potato Crisps, 8 Ounce",chips,764
+18,"HERR'S Baked! Cheddar & Sour Cream, Potato Crisps, 7 Ounce",chips,765
+19,"Herr's Baked! Original Ripple Cut, Potato Crisps, 8 Ounce",chips,766
+20,"Herr's Baked! Original, Potato Crisps, 8 Ounce",chips,767
+21,"Herr's Baked! Sour Cream & Onion Flavored, Potato Crisps, 8 Ounce",chips,768
+22,"Herr's Barbecue Flavored, Potato Chips, 8.5 Ounce",chips,769
+23,"HERR'S Barbecue Flavored, Potato Chips, 7.75 Ounce",chips,770
+24,"Herr's Cheddar & Sour Cream Ridged, Potato Chips, 8.5 Ounce",chips,771
+25,"Herr's Crisp 'N Tasty, Potato Chips, 9 Ounce",chips,772
+26,"HERR'S Crisp 'n Tasty, Potato Chips, 8 Ounce",chips,773
+27,"Herr's Gameday Flavors Buffalo Wing Flavored, Potato Chips, 7.75 Ounce",chips,774
+28,"HERR'S Gameday Flavors Cheesy Pizza Flavored, Potato Chips, 7.75 Ounce",chips,775
+29,"HERR'S Honey BBQ Flavored, Potato Chips, 7.75 Ounce",chips,776
+0,"Annas Ginger, Swedish Thins, 5.25 Ounce",cookies,777
+3,"Annie's Homegrown Bunny Grahams Organic Chocolate Chip, Baked Graham Snacks, 7.5 Ounce",cookies,778
+4,"Oreo Golden Double Stuf, Sandwich Cookies, 15.25 Ounce",cookies,779
+7,"Chips Ahoy! Chewy Chocolate Chip, Cookies, 19.5 Ounce",cookies,780
+8,"Annie's Homegrown Bunny Grahams Organic Chocolate, Baked Graham Snacks, 7.5 Ounce",cookies,781
+9,"Annie's Homegrown Bunny Grahams Organic Neapolitan, Baked Graham Snacks, 7.5 Ounce",cookies,782
+12,"Archway Classic Homestyle Crispy Iced Oatmeal, Cookies, 12 Ounce",cookies,783
+13,"Archway Classic Homestyle Soft Molasses, Cookies, 9.5 Ounce",cookies,784
+14,"Oreo Joy! Red Colored Creme Chocolate , Sandwich Cookies, 1.25 Pound",cookies,785
+15,"Oreo Golden, Sandwich Cookies, 19.1 Ounce",cookies,786
+18,"Archway Classics Homestyle Crispy Gingersnap, Cookies, 12 Ounce",cookies,787
+19,"Archway Classics Homestyle Crispy Windmill, Cookies, 9 Ounce",cookies,788
+20,"Archway Classics Homestyle Soft Frosty Lemon, Cookies, 9.25 Ounce",cookies,789
+21,"Archway Classics Homestyle Soft Iced Molasses, Cookies, 12 Ounce",cookies,790
+22,"Archway Classics Homestyle Soft Oatmeal Raisin, Cookies, 9.25 Ounce",cookies,791
+25,"Archway Classics Homestyle Soft Oatmeal, Cookies, 9.5 Ounce",cookies,792
+26,"Archway Classics Homestyle Soft Raspberry Filled, Cookies, 9 Ounce",cookies,793
+27,"Archway Classics Soft Iced Oatmeal, Cookies, 9.25 Ounce",cookies,794
+28,"Archway Homestyle Soft Dutch Cocoa, Cookies, 8.75 Ounce",cookies,795
+29,"Atkins Chocolate Chip, Protein Cookies Snack, 5.5 Ounce",cookies,796
+30,"Atkins Double Chocolate Chip Protein Snack, Cookies, 1.38 Ounce",cookies,797
+31,"Back to Nature Chocolate Chunk , Cookies, 9.5 Ounce",cookies,798
+32,"Back to Nature Cookies Peanut Butter Creme, 9.6 Ounce",cookies,799
+33,"Back to Nature Double Creme, Cookies, 10.7 Ounce",cookies,800
+34,"Back to Nature Mini Chocolate Chunk, Cookies, 6 Ounce",cookies,801
+37,"Back to Nature Mini Classic Creme, Cookies, 6 Ounce",cookies,802
+38,"Bahlsen Choco Leibniz Dark Crispy , Cookies, 4.4 Ounce",cookies,803
+39,"Bahlsen Choco Leibniz Milk, Crispy Cookies, 4.4 Ounce",cookies,804
+40,"Bahlsen Leibniz Butter Biscuits, 7 Ounce",cookies,805
+41,"Barnum's Animals Crackers, 2.13 Ounce",cookies,806
+42,"Barnum's Animals Mini, Crackers, 12 Ounce",cookies,807
+43,"Barnums Original Animal, Crackers, 8 Ounce",cookies,808
+44,"Bauducco Chocolate, Wafer, 5.82 Ounce",cookies,809
+45,"Bauducco Vanilla, Wafer, 5.82 Ounce",cookies,810
+0,"4 Pack Tomatoes, 1 Each",fruit,811
+3,"Apple Lucy Glo, 5 Ounce",fruit,812
+7,"Wholesome Pantry Organic Red, Pears, 1 Each",fruit,813
+8,"Lil Snappers Bartlett Pears, 48 Ounce",fruit,814
+9,"Apple SnapDragon, 6 Ounce",fruit,815
+14,"Lil Snappers Red Pears, 48 Ounce",fruit,816
+17,"Wholesome Pantry Organic Bartlett, Pears, 1 Each",fruit,817
+21,"Asian Pear, 1 Each",fruit,818
+22,"Avocados Green - Small, 1 Each",fruit,819
+25,"Bagged Lemons, 2 Pound",fruit,820
+26,"Bagged Limes - 2lb, 2 Pound",fruit,821
+29,"Bazzini Turkish Apricots, 13 Ounce",fruit,822
+31,"Black Mission Figs, 16 Ounce",fruit,823
+33,"Blueberries , 1 Pint",fruit,824
+37,"Bowl & Basket Fuji Apples, 3 Pound",fruit,825
+38,"Bowl & Basket Gala Apples, 48 Ounce",fruit,826
+39,"Bowl & Basket Golden Delicious, Apples, 48 Ounce",fruit,827
+40,"Bowl & Basket Granny Smith, Apples, 48 Ounce",fruit,828
+41,"Bowl & Basket Grape Tomatoes, 1 Pint",fruit,829
+42,"Bowl & Basket Honeycrisp, Apples, 32 Ounce",fruit,830
+43,"Bowl & Basket McIntosh , Apples, 48 Ounce",fruit,831
+44,"Bowl & Basket Navel Oranges, 64 Ounce",fruit,832
+45,"Bowl & Basket Red Delicious, Apples, 48 Ounce",fruit,833
+46,"Bowl & Basket Snapdragon, Apples, 32 Ounce",fruit,834
+0,"Alden's Organic Vanilla Crème, Ice Cream, 14 Fluid ounce",ice cream,835
+3,"Ben & Jerry's Brownie Batter Core, Ice Cream, 16 Ounce",ice cream,836
+4,"Ben & Jerry's Caramel Chocolate Cheesecake, Ice Cream, 16 Ounce",ice cream,837
+7,"Ben & Jerry's Cherry Garcia, Ice Cream, 16 Pint",ice cream,838
+8,"Ben & Jerry's Chewy Gooey Cookie, Ice Cream, 1 Pint",ice cream,839
+9,"Ben & Jerry's Chocolate Caramel Cookie Dough Topped, Ice Cream, 15.2 Fluid ounce",ice cream,840
+12,"Ben & Jerry's Chocolate Chip Cookie Dough Core, Ice Cream, 1 Each",ice cream,841
+13,"Ben & Jerry's Chocolate Milk & Cookies Topped, Ice Cream, 15.2 Fluid ounce",ice cream,842
+14,"Ben & Jerry's Chubby Hubby Ice Cream, 16 Ounce",ice cream,843
+15,"Ben & Jerry's Chunky Monkey, Ice Cream, 16 Ounce",ice cream,844
+18,"Ben & Jerry's Coffee Toffee Bar Crunch, Ice Cream, 16 Ounce",ice cream,845
+19,"Ben & Jerry's Dirt Cake Topped, Ice Cream, 15.2 Fluid ounce",ice cream,846
+20,"Ben & Jerry's Dublin Mudslide, Ice Cream, 1 Pint",ice cream,847
+21,"Ben & Jerry's Mint Chocolate Chance, Ice Cream, 1 Pint",ice cream,848
+22,"Ben & Jerry's Mint Chocolate Cookie, Ice Cream, 1 Each",ice cream,849
+25,"Ben & Jerry's New York Super Fudge Chunk, Ice Cream, 16 Ounce",ice cream,850
+26,"Ben & Jerry's PB Over the Top Topped, Ice Cream, 15.2 Fluid ounce",ice cream,851
+27,"Ben & Jerry's Peanut Butter Cup, Ice Cream, 16 Ounce",ice cream,852
+28,"Ben & Jerry's Pistachio, Ice Cream, 16 Ounce",ice cream,853
+29,"Ben & Jerry's Pumpkin Cheesecake with a Graham Cracker Swirl, Ice Cream, 16 Ounce",ice cream,854
+30,"Ben & Jerry's Salted Caramel Brownie Topped, Ice Cream, 15.2 Fluid ounce",ice cream,855
+31,"Ben & Jerry's Salted Caramel Core, Ice Cream, 16 Ounce",ice cream,856
+32,"Ben & Jerry's Strawberry Topped Tart Topped, Ice Cream, 15.2 Fluid ounce",ice cream,857
+33,"Ben & Jerry's Tiramisu Topped, Ice Cream, 15.2 Fluid ounce",ice cream,858
+34,"Ben & Jerry's Topped Thick Mint, Ice Cream, 15.2 Fluid ounce",ice cream,859
+37,"Ben & Jerry's Vermont's Finest Americone Dream, Ice Cream, 1 Pint",ice cream,860
+38,"Ben & Jerry's Vermont's Finest Banana, Ice Cream, 16 Ounce",ice cream,861
+39,"Ben & Jerry's Vermont's Finest Cannoli, Ice Cream , 1 Each",ice cream,862
+40,"Ben & Jerry's Vermont's Finest Chocolate Chip Cookie Dough, Ice Cream, 16 Pint",ice cream,863
+41,"Ben & Jerry's Vermont's Finest Chocolate Fudge Brownie , Ice Cream, 1 Pint",ice cream,864
+0,"All-Bran Buds, Cereal, 22 Ounce",cereal,865
+3,"All-Bran Original, Wheat Bran Cereal, 18.6 Ounce",cereal,866
+4,"Cheerios Toasted Whole Grain Oat, Cereal, 8.9 Ounce",cereal,867
+7,"Cheerios Toasted Whole Grain Oat, Cereal, 12 Ounce",cereal,868
+8,"Cheerios Honey Nut, Cereal, 10.8 Ounce",cereal,869
+9,"Alpen Original, Muesli, 14 Ounce",cereal,870
+12,"Annie's Homegrown Organic Cocoa Bunnies Oat, Corn & Rice, Cereal, 10 Ounce",cereal,871
+13,"Apple Jacks Jumbo Snax Cereal, 0.45 Ounce",cereal,872
+14,"Cheerios Honey Nut, Cereal, 15.4 Ounce",cereal,873
+17,"Reese's Puffs Sweet & Crunchy, Corn Puffs, 16.7 Ounce",cereal,874
+18,"Apple Jacks Sweetened with Apple & Cinnamon, Cereal, 10.1 Ounce",cereal,875
+19,"Apple Jacks Sweetened with Apple & Cinnamon, Cereal, 14.7 Ounce",cereal,876
+20,"Apple Jacks Sweetened with Apple & Cinnamon, Cereal, 18.4 Ounce",cereal,877
+21,"Arrowhead Mills Puffed Corn, Cereal, 6 Ounce",cereal,878
+22,"Arrowhead Mills Puffed Millet, Cereal, 6 Ounce",cereal,879
+25,"Arrowhead Mills Puffed Rice, Cereal, 6 Ounce",cereal,880
+26,"Arrowhead Mills Puffed Wheat, Cereal, 6 Ounce",cereal,881
+27,"Barbara's Morning Oat Crunch Original Crunchy Whole Grain, Cereal, 14 Ounce",cereal,882
+28,"Barbara's Puffins Original, Cereal, 10 Ounce",cereal,883
+29,"Barbara's Puffins Peanut Butter, Cereal, 11 Ounce",cereal,884
+30,"Barbara's Shredded Wheat Big Biscuit, Cereal, 15 Ounce",cereal,885
+31,"Basic 4 Multigrain with Fruit & Almonds, Cereal, 19.8 Ounce",cereal,886
+32,"Cap'n Crunch Berries Sweetened Corn & Oat, Cereal, 23.9 Ounce",cereal,887
+33,"Cap'n Crunch Sweetened Corn & Oat, Cereal, 12.6 Ounce",cereal,888
+36,"Cap'n Crunch Sweetened Corn & Oat, Cereal, 18 Ounce",cereal,889
+37,"Cap'n Crunch Sweetened Corn & Oat, Cereal, 25.7 Ounce",cereal,890
+38,"Cap'n Crunch's Berrytastic, Pancake Mix, 24 Ounce",cereal,891
+39,"Cap'n Crunch's Chocolate Caramel Crunch Sweetened Corn & Oat, Cereal, 11.8 Ounce",cereal,892
+40,"Cap'n Crunch's Crunch Berries Sweetened Corn & Oat, Cereal, 16.8 Ounce",cereal,893
+41,"Cap'n Crunch's Peanut Butter Crunch Sweetened, Corn & Oat Cereal, 11.4 Ounce",cereal,894
+42,"Cap'n Crunch's Sweetened Corn & Oat, Cereal, 17.6 Ounce",cereal,895
+43,"Cap'n Crunch's Sweetened Corn & Oat, Cereal, 10.3 Ounce",cereal,896
+44,"Cap'n Crunch's Sweetened Corn & Oat, Cereal, 13.8 Ounce",cereal,897
+45,"CAPTAIN CRUNCH Crunch Berrie, Sweetened Corn & Oat Cereal, 11.7 Ounce",cereal,898
+46,"Cascadian Farm Organic Cinnamon Raisin, Granola, 15.6 Ounce",cereal,899
+0,"Anna Fusilli Col Buco #108, Pasta, 16 Ounce",pasta,900
+3,"Anna Gluten Free Elbows, Pasta, 8 Ounce",pasta,901
+4,"Anna Gluten Free Penne Rigate, Pasta, 8 Ounce",pasta,902
+7,"Anna Mini Potato, Gnocchi, 17.6 Ounce",pasta,903
+8,"Anna Potato, Gnocchi, 17.6 Ounce",pasta,904
+9,"Anna Rotelle # 54, Pasta, 16 Ounce",pasta,905
+12,"Banza Cavatappi, Pasta, 8 Ounce",pasta,906
+13,"Banza Penne, Pasta, 8 Ounce",pasta,907
+14,"Banza Rigatoni, Pasta, 8 Ounce",pasta,908
+15,"Banza Rotini Made from Chickpeas, Pasta, 8 Ounce",pasta,909
+18,"Banza Shells Made from Chickpeas, Pasta, 8 Ounce",pasta,910
+19,"Barilla  Protein+ Rotini Grain & Legume, Pasta, 14.5 Ounce",pasta,911
+20,"Barilla  Red Lentil Rotini, Pasta, 8.8 Ounce",pasta,912
+21,"Barilla Angel Hair, Pasta, 1 Pound",pasta,913
+22,"Barilla Campanelle Pasta, 1 Pound",pasta,914
+25,"Barilla Chickpea Rotini, Pasta, 8.8 Ounce",pasta,915
+26,"Barilla Chickpea Spaghetti, Pasta, 8.8 Ounce",pasta,916
+27,"Barilla Classic Blue Box Pasta Mini Wheels, 1 Pound",pasta,917
+28,"Barilla Classic Blue Box Pasta Mostaccioli, 1 Pound",pasta,918
+29,"Barilla Classic Blue Box Pasta Spaghetti Rigati, 1 Pound",pasta,919
+30,"Barilla Collezione Bucatini, Pasta, 12 Ounce",pasta,920
+31,"Barilla Collezione Cheese & Spinach Tortellini, Pasta, 12 Ounce",pasta,921
+32,"Barilla Collezione Pasta Orecchiette, 12 Ounce",pasta,922
+33,"Barilla Collezione Rigatoni, Pasta, 12 Ounce",pasta,923
+34,"Barilla Collezione Three Cheese Tortellini, Pasta, 12 Ounce",pasta,924
+37,"Barilla Ditalini n.45, Pasta, 1 Pound",pasta,925
+38,"Barilla Fettuccine n.6, Pasta, 1 Pound",pasta,926
+39,"Barilla Fully Cooked Elbows, Ready Pasta, 8.5 Ounce",pasta,927
+40,"Barilla Fully Cooked Gemelli, Ready Pasta, 8.5 Ounce",pasta,928
+41,"Barilla Fully Cooked Rotini, Ready Pasta, 8.5 Ounce",pasta,929

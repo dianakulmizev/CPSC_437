@@ -1,0 +1,363 @@
+,price,product,category
+0,$6.49,"Alvarado St. Bakery Freshly Sprouted Wheat California Style, Bread, 24 Ounce",bread
+3,$6.49,"Alvarado St. Bakery Freshly Sprouted Wheat Low Glycemic, Bread, 24 Ounce",bread
+4,$6.49,"Alvarado St. Bakery Freshly Sprouted Wheat Multigrain, Bread, 24 Ounce",bread
+7,$6.49,"Alvarado St. Bakery No Salt Added Freshly Sprouted Wheat Multigrain, Bread, 24 Ounce",bread
+8,$6.49,"Alvarado St. Bakery Sprouted Flax Seed, Bread, 16 Ounce",bread
+9,$5.99,"Bowl & Basket Authentic Sourdough, Country Loaf, 24 Ounce",bread
+12,$5.99,"Bowl & Basket Authentic, Sourdough Boule, 16 Ounce",bread
+13,$5.99,"Bowl & Basket Classic, Ciabatta Loaf, 14 Ounce",bread
+14,$5.99,"Bowl & Basket Garlic, Ciabatta Loaf, 14 Ounce",bread
+15,$5.99,"Bowl & Basket Kneaded Grain, Ciabatta Loaf, 14 Ounce",bread
+18,$4.99,"Bowl & Basket Loaf Ancient Grain Artisan, Bread, 16 Ounce",bread
+19,$5.99,"Bowl & Basket Olive Oil, Ciabatta Loaf, 14 Ounce",bread
+20,$4.49,"Bowl & Basket Rosemary Olive Oil, Ciabatta Loaf, 14.5 Ounce",bread
+21,$5.99,"Bowl & Basket Wheat, Ciabatta Loaf, 1 Each",bread
+22,$5.79,"Calandra Whole Wheat Panella, 1 Each",bread
+25,$3.99,"Calandra's Fresh French Bread, 12 Ounce",bread
+26,$4.39,"Calandra's Italian & French Bakery Delicious Semolina Brick Oven Baked, Bread, 10 Ounce",bread
+27,$5.79,"Calandra's Italian & French Bakery Hearth Oven Baked Medium, Panella Bread, 21 Ounce",bread
+28,$3.99,"Calandra's Italian & French Bakery Old World, Bastone Bread, 12 Ounce",bread
+29,$5.99,"Cheesecake Factory Wheat Dinner Rolls, 11.2 Ounce",bread
+30,$5.99,"Concord Bakery Mini Loaves, Cornbread, 1 Each",bread
+31,$5.99,"Euro Classic Authentic Brioche, Burger Buns, 10.58 Ounce",bread
+32,$5.99,"Euro Classic Authentic Brioche, Dinner Rolls, 16.9 Ounce",bread
+33,$6.99,"Euro Classic Authentic Butter Braided, Brioche, 1 Each",bread
+34,$5.99,"Euro Classic Authentic French Brioche, Hot Dog Buns, 10.58 Ounce",bread
+37,$6.99,"Euro Classic Authentic French Cinnamon Raisin, Brioche, 15.87 Ounce",bread
+38,$3.99,"FRESH BAKE 4 PK CIABATTA ROLLS  , 12 Ounce",bread
+39,$3.99,"FRESH BAKE 4PK WHEAT CIABATTA   , 12 Ounce",bread
+40,$4.99,"FRESH BAKE 6PK SEMOLI HERO ROLLS, 20 Ounce",bread
+41,$5.99,"Fresh Bake Shop 12 Pack Medium Kaiser Rolls, 18 Ounce",bread
+0,$5.49,"a2 Milk 2% Reduced Fat, Milk, 59 Fluid ounce",milk
+3,$5.49,"a2 Milk Whole , Milk, 59 Fluid ounce",milk
+4,$4.79,"Bowl & Basket 1% Low Fat, Chocolate Milk, 1 Gallon",milk
+7,$4.59,"Bowl & Basket 1% Low Fat, Milk, 1 Gallon",milk
+8,$3.19,"Bowl & Basket 1% Low Fat, Milk, 0.5 Gallon",milk
+9,$1.89,"Bowl & Basket 1% Low Fat, Milk, 32 Quart",milk
+12,$4.59,"Bowl & Basket 2% Reduced Fat, Milk, 1 Gallon",milk
+13,$3.19,"Bowl & Basket 2% Reduced Fat, Milk, 0.5 Gallon",milk
+14,$1.89,"Bowl & Basket 2% Reduced Fat, Milk, 1 Each",milk
+15,$0.99,"Bowl & Basket 2% Reduced Fat, Milk, 1 Each",milk
+18,$3.49,"Bowl & Basket Chocolate Milk, 0.5 Gallon",milk
+19,$0.99,"Bowl & Basket Chocolate Milk, 1 Pint",milk
+20,$4.59,"Bowl & Basket Fat Free, Milk, 1 Gallon",milk
+21,$3.19,"Bowl & Basket Fat Free, Milk, 0.5 Gallon",milk
+22,$1.89,"Bowl & Basket Fat Free, Milk, 32 Quart",milk
+25,$3.19,"Bowl & Basket Lactose Free 2% Reduced Fat, Milk, 0.5 Gallon",milk
+26,$3.19,"Bowl & Basket Lactose Free Calcium Enriched 2% Reduced Fat, Milk, 0.5 Gallon",milk
+27,$3.19,"Bowl & Basket Lactose Free Calcium Enriched Fat Free, Milk, 0.5 Gallon",milk
+28,$3.19,"Bowl & Basket Lactose Free Fat Free, Milk, 0.5 Gallon",milk
+29,$3.19,"Bowl & Basket Lactose Free Whole, Milk, 0.5 Gallon",milk
+30,$1.99,"Bowl & Basket Light Cultured, Buttermilk, 32 Fluid ounce",milk
+31,$3.19,"Bowl & Basket Milk Lactose Free 1% Low Fat, 0.5 Gallon",milk
+32,$4.59,"Bowl & Basket Whole Milk, 1 Gallon",milk
+33,$3.19,"Bowl & Basket Whole Milk, 0.5 Gallon",milk
+34,$1.89,"Bowl & Basket Whole Milk, 32 Quart",milk
+37,$4.99,"Chobani Nog Flavored Holiday Limited Batch, Oat Milk Drink, 32 Fluid ounce",milk
+38,$4.19,"Fairlife 2% Chocolate Bottle, Milk, 52 Fluid ounce",milk
+39,$4.19,"Fairlife 2% Reduced Fat, Ultra-Filtered Milk, 52 Fluid ounce",milk
+40,$4.69,"Fairlife DHA Omega-3 Reduced Fat Ultra-Filtered, Milk, 1.5 Each",milk
+41,$4.19,"Fairlife Fat Free, Ultra-Filtered Milk, 1.5 Each",milk
+0,$2.99,"Bowl & Basket Cage Free Brown Large, Eggs, 12 Each",eggs
+1,$3.49,"Bowl & Basket Cage Free Hard-Cooked Peeled, Eggs, 6 Each",eggs
+2,$5.49,"Bowl & Basket Cage Free Liquid, Egg Whites, 32 Ounce",eggs
+3,$4.69,"Bowl & Basket Extra Large White, Eggs, 12 Each",eggs
+4,$4.89,"Bowl & Basket Fresh White Jumbo, Eggs, 12 Each",eggs
+5,$6.69,"Bowl & Basket Fresh White Large, Eggs, 18 Each",eggs
+6,$4.49,"Bowl & Basket Fresh White Large, Eggs, 12 Each",eggs
+7,$3.99,"Bowl & Basket Specialty Free Range Fresh Brown Large, Egg, 12 Each",eggs
+8,$10.99,"Bowl & Basket White Large, Eggs, 30 Each",eggs
+9,$3.49,"Bowl & Basket White Large, Eggs, 6 Each",eggs
+10,$21.99,"Bowl & Basket White Large, Eggs, 120 Ounce",eggs
+11,$4.79,"Egg Land's Best Free Range Large Brown, Eggs, 12 Each",eggs
+12,$5.79,"Egg Land's Best Large Brown Pasture Raised, Eggs, 12 Each",eggs
+13,$4.19,"Egg-Land's Best Brown Large, Eggs, 12 Each",eggs
+14,$6.99,"Egg-Land's Best Cage Free Brown Large, Eggs, 18 Each",eggs
+15,$4.79,"Egg-Land's Best Cage Free Large Brown, Eggs, 12 Each",eggs
+16,$6.49,"Egg-Land's Best Extra Large, Eggs, 18 Each",eggs
+17,$4.49,"Egg-Land's Best Extra Large, Eggs, 12 Each",eggs
+18,$4.99,"Egg-Land's Best Jumbo, Eggs, 12 Each",eggs
+19,$5.99,"Egg-Land's Best Large, Eggs, 18 Each",eggs
+20,$6.99,"Egg-Land's Best Large, Eggs, 24 Each",eggs
+21,$5.99,"Egg-Land's Best Organic Brown Large, Eggs, 1 Each",eggs
+22,$3.99,"Eggland's Best Eggs - Hard Cooked, 6 Each",eggs
+23,$4.19,"Eggland's Best Large White Eggs, 12 Each",eggs
+24,$5.49,"Eggland's Best Organic Hard Cooked Peeled Eggs, 9.3 Ounce",eggs
+25,$4.99,"Land O Lakes Brown Jumbo, Eggs, 12 Each",eggs
+26,$4.19,"Land O Lakes Brown Large, Eggs, 12 Each",eggs
+27,$4.49,"Land O'Lakes 1 Dozen Grade A Extra Large Brown Eggs, 12 Each",eggs
+28,$4.69,"Mountainside Farms Cage Free Natural Large Brown, Eggs, 1 Ounce",eggs
+29,$4.49,"Nature's Yoke Free-Range Brown Large, Eggs, 12 Each",eggs
+0,$2.69,"Bowl & Basket Spreadable with Canola Oil, Butter, 8 Ounce",butter
+3,$3.99,"Bowl & Basket Sweet Cream Salted, Butter, 16 Ounce",butter
+4,$3.99,"Bowl & Basket Sweet Cream Unsalted, Butter, 1 Pound",butter
+7,$2.99,"Bowl & Basket Whipped Salted, Butter, 8 Ounce",butter
+8,$6.29,"Breakstone's All Natural Salted, Butter, 16 Ounce",butter
+9,$3.99,"Breakstone's All Natural Salted, Butter, 8 Ounce",butter
+12,$3.99,"Breakstone's All Natural Salted, Whipped Butter, 8 Ounce",butter
+13,$3.99,"Breakstone's All Natural Unsalted, Butter, 8 Ounce",butter
+14,$6.29,"Breakstone's All Natural Unsalted, Butter, 16 Ounce",butter
+15,$3.99,"Breakstone's All Natural Unsalted, Whipped Butter, 8 Ounce",butter
+18,$10.99,"D'Artagnan White Truffle, Butter, 3 Ounce",butter
+19,$6.29,"Hotel Bar Salted, Butter, 16 Ounce",butter
+20,$6.29,"Hotel Bar Unsalted, Butter, 16 Ounce",butter
+21,$6.29,"Keller's Creamery Salted, Butter, 16 Ounce",butter
+22,$6.29,"Keller's Creamery Unsalted, Butter, 16 Ounce",butter
+25,$2.99,"Kerrygold Garlic & Herb, Butter, 3.5 Ounce",butter
+26,$4.99,"Kerrygold Irish with Olive Oil, Butter, 7.5 Ounce",butter
+27,$3.69,"Kerrygold Pure Irish, Butter, 8 Ounce",butter
+28,$4.99,"Kerrygold Pure Irish, Butter, 8 Ounce",butter
+30,$3.69,"Kerrygold Unsalted Pure Irish, Butter, 8 Ounce",butter
+31,$4.99,"Kerrygold Unsalted Sticks Pure Irish, Butter, 8 Ounce",butter
+32,$3.99,"Land O Lakes Butter with Canola Oil Plus Calcium & Vitamin D, Spread, 15 Ounce",butter
+33,$3.99,"Land O Lakes Butter with Canola Oil, Spread, 15 Ounce",butter
+34,$2.99,"Land O Lakes Butter with Canola Oil, Spread, 8 Ounce",butter
+37,$8.49,"Land O Lakes Butter with Canola Oil, Spread, 24 Ounce",butter
+38,$2.99,"Land O Lakes Light Butter with Canola Oil, Spread, 8 Ounce",butter
+39,$8.49,"Land O Lakes Light Butter with Canola Oil, Spread, 24 Ounce",butter
+40,$8.49,"Land O Lakes Olive Oil and Sea Salt, Spread, 21 Ounce",butter
+41,$2.99,"Land O Lakes Olive Oil and Sea Salt, Spreadable Butter , 7 Ounce",butter
+0,$8.99,"Boar's Head American, Cheese, 8 Ounce",cheese
+1,$8.99,"Boar's Head Monterey Jack Cheese, 8 Ounce",cheese
+2,$8.99,"Boar's Head White Vermont Cheddar Cheese, 8 Ounce",cheese
+3,$7.99,"Boars Head Imported Switzerland Swiss, Cheese, 7 Ounce",cheese
+4,$2.99,"Borden American 2% Milk Singles, Cheese, 12 Ounce",cheese
+5,$2.99,"Borden American Fat Free Singles, Cheese, 12 Ounce",cheese
+6,$2.99,"Borden American Lactose Free Singles, Cheese, 8 Ounce",cheese
+7,$2.99,"Borden American Pasteurized Sliced Process, Cheese, 6 Ounce",cheese
+8,$2.99,"Borden American Singles, Cheese, 12 Ounce",cheese
+9,$4.99,"Borden Kid Builder Low-Moisture Part-Skim Mozzarella, String Cheese, 12 Ounce",cheese
+10,$4.99,"Borden Low-Moisture Part-Skim Mozzarella, String Cheese, 12 Ounce",cheese
+11,$2.99,"Borden Melts Grilled, Cheese, 12 Ounce",cheese
+12,$2.99,"Borden Mild Cheddar Sliced, Cheese, 6 Ounce",cheese
+13,$2.99,"Borden Muenster Sliced, Cheese, 6 Ounce",cheese
+14,$2.99,"Borden Pepper Jack Sliced, Cheese, 6 Ounce",cheese
+15,$2.99,"Borden Provolone, Sliced Cheese, 6 Ounce",cheese
+16,$2.99,"Borden Sharp 2% Milk Singles, Cheese, 12 Ounce",cheese
+17,$2.99,"Borden Sharp Cheddar Sliced, Cheese, 6 Ounce",cheese
+18,$2.99,"Borden Swiss, Sliced Cheese, 5 Ounce",cheese
+19,$2.99,"Borden White American Singles, Cheese, 12 Ounce",cheese
+20,$2.79,"Bowl & Basket 2% Milk Singles White, Cheese, 12 Ounce",cheese
+21,$2.79,"Bowl & Basket 2% Milk Singles Yellow, Cheese, 12 Ounce",cheese
+22,$3.99,"Bowl & Basket Colby & Monterey Jack, Cheese Sticks, 10 Ounce",cheese
+23,$2.19,"Bowl & Basket Colby Jack Natural, Cheese, 8 Ounce",cheese
+24,$2.99,"Bowl & Basket Cracker Cuts Extra Sharp Cheddar, Cheese, 10 Ounce",cheese
+25,$2.99,"Bowl & Basket Cracker Cuts Mild Cheddar, Cheese, 10 Ounce",cheese
+26,$2.99,"Bowl & Basket Cracker Cuts New York Sharp White, Cheddar Cheese, 10 Ounce",cheese
+27,$2.99,"Bowl & Basket Cracker Cuts Pepper Jack, Cheese, 10 Ounce",cheese
+28,$2.99,"Bowl & Basket Cracker Cuts Sharp Cheddar, Cheese, 10 Ounce",cheese
+29,$2.99,"Bowl & Basket Cracker Cuts Swiss, Cheese, 9 Ounce",cheese
+0,$4.49,"Al Fresco Apple Maple with Vermont Maple Syrup, Chicken Breakfast Sausage, 7.5 Ounce",bacon
+3,$4.49,"Al Fresco Country Style, Chicken Breakfast Sausage, 7.5 Ounce",bacon
+4,$4.99,"Al Fresco Original Uncured Chicken, Bacon, 8 Ounce",bacon
+7,$7.49,"Applegate Naturals Hickory Smoked No Sugar Uncured, Bacon, 8 Ounce",bacon
+8,$6.99,"Applegate Naturals Hickory Smoked Uncured Sunday, Bacon, 8 Ounce",bacon
+9,$9.49,"APPLEGATE Naturals Hickory Smoked Uncured Thick Cut, Bacon, 12 Ounce",bacon
+12,$5.99,"Applegate Naturals Hickory Smoked Uncured Turkey, Bacon, 8 Ounce",bacon
+13,$8.99,"Arnold's Premium Smoked Beef, Bacon, 12 Ounce",bacon
+14,$7.49,"Black Label Natural Hardwood Smoke Lower Sodium, Bacon, 454 Gram",bacon
+15,$9.99,"Black Label Natural Hardwood Smoke Microwave Ready Original, Bacon, 12 Ounce",bacon
+18,$7.49,"Black Label Natural Hardwood Smoke Original, Bacon, 454 Gram",bacon
+19,$7.49,"Black Label Natural Hardwood Smoke Thick Cut, Bacon, 1 Pound",bacon
+20,$7.49,"Black Label Naturally Hardwood Smoked Applewood Thick Cut, Bacon, 12 Ounce",bacon
+21,$8.99,"Boar's Head Butcher Craft Thick cut, Bacon, 12 Ounce",bacon
+22,$11.99,"Boar's Head Butcher Craft Thick Cut, Bacon, 20 Ounce",bacon
+25,$3.79,"Bob Evans Maple, Pork Sausage Links, 12 Ounce",bacon
+26,$3.79,"Bob Evans Maple, Pork Sausage Patties, 12 Ounce",bacon
+27,$4.99,"Bowl & Basket Applewood Smoked, Bacon, 1 Pound",bacon
+28,$8.49,"Bowl & Basket Hickory Smoked Tangy, Pork Roll, 24 Ounce",bacon
+29,$8.49,"Bowl & Basket Hickory Smoked, Pork Roll, 24 Ounce",bacon
+30,$4.99,"Bowl & Basket Lower Sodium Sliced, Bacon, 1 Pound",bacon
+31,$4.99,"Bowl & Basket Original, Bacon, 1 Pound",bacon
+32,$2.49,"Bowl & Basket Thick Slices Hickory Smoked Mild, Pork Roll, 6 Ounce",bacon
+33,$2.49,"Bowl & Basket Thin Slices Mild, Pork Roll, 6 Ounce",bacon
+34,$2.49,"Bowl & Basket Thin Slices Tangy, Pork Roll, 6 Ounce",bacon
+37,$3.49,"Butterball Lower Sodium, Turkey Bacon, 12 Ounce",bacon
+38,$3.49,"Butterball Original, Turkey Bacon, 12 Ounce",bacon
+39,$2.49,"Case's Hickory Smoked Mild, Pork Roll, 6 Ounce",bacon
+40,$29.99,"case's Pork Roll, 6 Pound",bacon
+41,$7.99,"case's Pork Roll, 24 Ounce",bacon
+0,$2.99,"Deep River Snacks Krinkle Cut Sour Cream & Onion Flavored Kettle Cooked, Potato Chips, 5 Ounce",chips
+1,$2.99,"Deep River Snacks Maui Onion Flavored Kettle Cooked, Potato Chips, 5 Ounce",chips
+2,$2.99,"Deep River Snacks Mesquite BBQ Flavored Kettle Cooked, Potato Chips, 5 Ounce",chips
+3,$1.59,"Deep River Snacks Mesquite BBQ Kettle Chips, 2 Ounce",chips
+4,$1.59,"Deep River Snacks Original Salted Kettle Chips, 2 Ounce",chips
+5,$2.99,"Deep River Snacks Original Sea Salt Kettle Cooked, Potato Chips, 5 Ounce",chips
+6,$1.59,"Deep River Snacks Rosemary & Olive Oil Kettle Chips, 2 Ounce",chips
+7,$1.59,"Deep River Snacks Sea Salt & Vinegar Flavored Kettle Cooked, Potato Chips, 2 Ounce",chips
+8,$2.99,"Deep River Snacks Sea Salt & Vinegar Flavored Kettle Cooked, Potato Chips, 5 Ounce",chips
+9,$1.59,"Deep River Snacks Sweet Maui Onion Kettle Chips, 2 Ounce",chips
+10,$2.99,"Deep River Snacks Zesty Jalapeño Flavored, Kettle Cooked Potato Chips, 5 Ounce",chips
+11,$3.49,"Good Health Avocado Oil Lime Ranch Kettle Style, Potato Chips, 5 Ounce",chips
+12,$3.49,"Good Health Avocado Oil Sea Salted Kettle Style, Potato Chips, 5 Ounce",chips
+13,$7.99,"Good Health Avocado Oil Sea Salted Kettle Style, Potato Chips, 16 Ounce",chips
+14,$3.29,"Good Health Sweet Potato Sea Salted Kettle Style, Potato Chips, 5 Ounce",chips
+15,$3.99,"Herr's  Kettle Cooked Cracked Pepper & Sea Salt Flavored, Potato Chips, 7.5 Ounce",chips
+16,$3.99,"Herr's  Kettle Cooked Mesquite BBQ Flavored, Potato Chips, 7.5 Ounce",chips
+17,$3.99,"Herr's Baked! Cheddar & Sour Cream Flavored, Potato Crisps, 8 Ounce",chips
+18,$3.99,"HERR'S Baked! Cheddar & Sour Cream, Potato Crisps, 7 Ounce",chips
+19,$3.99,"Herr's Baked! Original Ripple Cut, Potato Crisps, 8 Ounce",chips
+20,$3.99,"Herr's Baked! Original, Potato Crisps, 8 Ounce",chips
+21,$3.99,"Herr's Baked! Sour Cream & Onion Flavored, Potato Crisps, 8 Ounce",chips
+22,$2.29,"Herr's Barbecue Flavored, Potato Chips, 8.5 Ounce",chips
+23,$2.29,"HERR'S Barbecue Flavored, Potato Chips, 7.75 Ounce",chips
+24,$2.29,"Herr's Cheddar & Sour Cream Ridged, Potato Chips, 8.5 Ounce",chips
+25,$2.29,"Herr's Crisp 'N Tasty, Potato Chips, 9 Ounce",chips
+26,$2.29,"HERR'S Crisp 'n Tasty, Potato Chips, 8 Ounce",chips
+27,$2.29,"Herr's Gameday Flavors Buffalo Wing Flavored, Potato Chips, 7.75 Ounce",chips
+28,$2.29,"HERR'S Gameday Flavors Cheesy Pizza Flavored, Potato Chips, 7.75 Ounce",chips
+29,$2.29,"HERR'S Honey BBQ Flavored, Potato Chips, 7.75 Ounce",chips
+0,$2.99,"Annas Ginger, Swedish Thins, 5.25 Ounce",cookies
+3,$3.99,"Annie's Homegrown Bunny Grahams Organic Chocolate Chip, Baked Graham Snacks, 7.5 Ounce",cookies
+4,$4.29,"Oreo Golden Double Stuf, Sandwich Cookies, 15.25 Ounce",cookies
+7,$4.69,"Chips Ahoy! Chewy Chocolate Chip, Cookies, 19.5 Ounce",cookies
+8,$3.99,"Annie's Homegrown Bunny Grahams Organic Chocolate, Baked Graham Snacks, 7.5 Ounce",cookies
+9,$3.99,"Annie's Homegrown Bunny Grahams Organic Neapolitan, Baked Graham Snacks, 7.5 Ounce",cookies
+12,$3.29,"Archway Classic Homestyle Crispy Iced Oatmeal, Cookies, 12 Ounce",cookies
+13,$2.49,"Archway Classic Homestyle Soft Molasses, Cookies, 9.5 Ounce",cookies
+14,$3.50,"Oreo Joy! Red Colored Creme Chocolate , Sandwich Cookies, 1.25 Pound",cookies
+15,$3.50,"Oreo Golden, Sandwich Cookies, 19.1 Ounce",cookies
+18,$3.29,"Archway Classics Homestyle Crispy Gingersnap, Cookies, 12 Ounce",cookies
+19,$2.49,"Archway Classics Homestyle Crispy Windmill, Cookies, 9 Ounce",cookies
+20,$2.49,"Archway Classics Homestyle Soft Frosty Lemon, Cookies, 9.25 Ounce",cookies
+21,$3.29,"Archway Classics Homestyle Soft Iced Molasses, Cookies, 12 Ounce",cookies
+22,$2.49,"Archway Classics Homestyle Soft Oatmeal Raisin, Cookies, 9.25 Ounce",cookies
+25,$2.49,"Archway Classics Homestyle Soft Oatmeal, Cookies, 9.5 Ounce",cookies
+26,$2.49,"Archway Classics Homestyle Soft Raspberry Filled, Cookies, 9 Ounce",cookies
+27,$2.49,"Archway Classics Soft Iced Oatmeal, Cookies, 9.25 Ounce",cookies
+28,$2.49,"Archway Homestyle Soft Dutch Cocoa, Cookies, 8.75 Ounce",cookies
+29,$7.99,"Atkins Chocolate Chip, Protein Cookies Snack, 5.5 Ounce",cookies
+30,$7.99,"Atkins Double Chocolate Chip Protein Snack, Cookies, 1.38 Ounce",cookies
+31,$3.99,"Back to Nature Chocolate Chunk , Cookies, 9.5 Ounce",cookies
+32,$3.99,"Back to Nature Cookies Peanut Butter Creme, 9.6 Ounce",cookies
+33,$3.99,"Back to Nature Double Creme, Cookies, 10.7 Ounce",cookies
+34,$3.99,"Back to Nature Mini Chocolate Chunk, Cookies, 6 Ounce",cookies
+37,$3.99,"Back to Nature Mini Classic Creme, Cookies, 6 Ounce",cookies
+38,$4.49,"Bahlsen Choco Leibniz Dark Crispy , Cookies, 4.4 Ounce",cookies
+39,$4.49,"Bahlsen Choco Leibniz Milk, Crispy Cookies, 4.4 Ounce",cookies
+40,$4.99,"Bahlsen Leibniz Butter Biscuits, 7 Ounce",cookies
+41,$2.69,"Barnum's Animals Crackers, 2.13 Ounce",cookies
+42,$7.99,"Barnum's Animals Mini, Crackers, 12 Ounce",cookies
+43,$3.39,"Barnums Original Animal, Crackers, 8 Ounce",cookies
+44,$1.29,"Bauducco Chocolate, Wafer, 5.82 Ounce",cookies
+45,$1.29,"Bauducco Vanilla, Wafer, 5.82 Ounce",cookies
+0,$3.99,"4 Pack Tomatoes, 1 Each",fruit
+3,$3.99,"Apple Lucy Glo, 5 Ounce",fruit
+7,$3.99,"Wholesome Pantry Organic Red, Pears, 1 Each",fruit
+8,$4.99,"Lil Snappers Bartlett Pears, 48 Ounce",fruit
+9,$1.99,"Apple SnapDragon, 6 Ounce",fruit
+14,$4.99,"Lil Snappers Red Pears, 48 Ounce",fruit
+17,$3.99,"Wholesome Pantry Organic Bartlett, Pears, 1 Each",fruit
+21,$2.99,"Asian Pear, 1 Each",fruit
+22,$3.00,"Avocados Green - Small, 1 Each",fruit
+25,$3.99,"Bagged Lemons, 2 Pound",fruit
+26,$5.99,"Bagged Limes - 2lb, 2 Pound",fruit
+29,$4.79,"Bazzini Turkish Apricots, 13 Ounce",fruit
+31,$6.99,"Black Mission Figs, 16 Ounce",fruit
+33,$1.99,"Blueberries , 1 Pint",fruit
+37,$3.99,"Bowl & Basket Fuji Apples, 3 Pound",fruit
+38,$3.99,"Bowl & Basket Gala Apples, 48 Ounce",fruit
+39,$3.99,"Bowl & Basket Golden Delicious, Apples, 48 Ounce",fruit
+40,$5.29,"Bowl & Basket Granny Smith, Apples, 48 Ounce",fruit
+41,$3.99,"Bowl & Basket Grape Tomatoes, 1 Pint",fruit
+42,$3.99,"Bowl & Basket Honeycrisp, Apples, 32 Ounce",fruit
+43,$3.99,"Bowl & Basket McIntosh , Apples, 48 Ounce",fruit
+44,$5.99,"Bowl & Basket Navel Oranges, 64 Ounce",fruit
+45,$3.99,"Bowl & Basket Red Delicious, Apples, 48 Ounce",fruit
+46,$3.99,"Bowl & Basket Snapdragon, Apples, 32 Ounce",fruit
+0,$6.99,"Alden's Organic Vanilla Crème, Ice Cream, 14 Fluid ounce",ice cream
+3,$5.99,"Ben & Jerry's Brownie Batter Core, Ice Cream, 16 Ounce",ice cream
+4,$5.99,"Ben & Jerry's Caramel Chocolate Cheesecake, Ice Cream, 16 Ounce",ice cream
+7,$5.99,"Ben & Jerry's Cherry Garcia, Ice Cream, 16 Pint",ice cream
+8,$5.99,"Ben & Jerry's Chewy Gooey Cookie, Ice Cream, 1 Pint",ice cream
+9,$5.99,"Ben & Jerry's Chocolate Caramel Cookie Dough Topped, Ice Cream, 15.2 Fluid ounce",ice cream
+12,$5.99,"Ben & Jerry's Chocolate Chip Cookie Dough Core, Ice Cream, 1 Each",ice cream
+13,$5.99,"Ben & Jerry's Chocolate Milk & Cookies Topped, Ice Cream, 15.2 Fluid ounce",ice cream
+14,$5.99,"Ben & Jerry's Chubby Hubby Ice Cream, 16 Ounce",ice cream
+15,$5.99,"Ben & Jerry's Chunky Monkey, Ice Cream, 16 Ounce",ice cream
+18,$5.99,"Ben & Jerry's Coffee Toffee Bar Crunch, Ice Cream, 16 Ounce",ice cream
+19,$5.99,"Ben & Jerry's Dirt Cake Topped, Ice Cream, 15.2 Fluid ounce",ice cream
+20,$5.99,"Ben & Jerry's Dublin Mudslide, Ice Cream, 1 Pint",ice cream
+21,$5.99,"Ben & Jerry's Mint Chocolate Chance, Ice Cream, 1 Pint",ice cream
+22,$5.99,"Ben & Jerry's Mint Chocolate Cookie, Ice Cream, 1 Each",ice cream
+25,$5.99,"Ben & Jerry's New York Super Fudge Chunk, Ice Cream, 16 Ounce",ice cream
+26,$5.99,"Ben & Jerry's PB Over the Top Topped, Ice Cream, 15.2 Fluid ounce",ice cream
+27,$5.99,"Ben & Jerry's Peanut Butter Cup, Ice Cream, 16 Ounce",ice cream
+28,$5.99,"Ben & Jerry's Pistachio, Ice Cream, 16 Ounce",ice cream
+29,$5.99,"Ben & Jerry's Pumpkin Cheesecake with a Graham Cracker Swirl, Ice Cream, 16 Ounce",ice cream
+30,$5.99,"Ben & Jerry's Salted Caramel Brownie Topped, Ice Cream, 15.2 Fluid ounce",ice cream
+31,$5.99,"Ben & Jerry's Salted Caramel Core, Ice Cream, 16 Ounce",ice cream
+32,$5.99,"Ben & Jerry's Strawberry Topped Tart Topped, Ice Cream, 15.2 Fluid ounce",ice cream
+33,$5.99,"Ben & Jerry's Tiramisu Topped, Ice Cream, 15.2 Fluid ounce",ice cream
+34,$5.99,"Ben & Jerry's Topped Thick Mint, Ice Cream, 15.2 Fluid ounce",ice cream
+37,$5.99,"Ben & Jerry's Vermont's Finest Americone Dream, Ice Cream, 1 Pint",ice cream
+38,$5.99,"Ben & Jerry's Vermont's Finest Banana, Ice Cream, 16 Ounce",ice cream
+39,$5.99,"Ben & Jerry's Vermont's Finest Cannoli, Ice Cream , 1 Each",ice cream
+40,$5.99,"Ben & Jerry's Vermont's Finest Chocolate Chip Cookie Dough, Ice Cream, 16 Pint",ice cream
+41,$5.99,"Ben & Jerry's Vermont's Finest Chocolate Fudge Brownie , Ice Cream, 1 Pint",ice cream
+0,$5.39,"All-Bran Buds, Cereal, 22 Ounce",cereal
+3,$5.59,"All-Bran Original, Wheat Bran Cereal, 18.6 Ounce",cereal
+4,$5.69,"Cheerios Toasted Whole Grain Oat, Cereal, 8.9 Ounce",cereal
+7,$6.19,"Cheerios Toasted Whole Grain Oat, Cereal, 12 Ounce",cereal
+8,$4.99,"Cheerios Honey Nut, Cereal, 10.8 Ounce",cereal
+9,$4.49,"Alpen Original, Muesli, 14 Ounce",cereal
+12,$5.39,"Annie's Homegrown Organic Cocoa Bunnies Oat, Corn & Rice, Cereal, 10 Ounce",cereal
+13,$5.49,"Apple Jacks Jumbo Snax Cereal, 0.45 Ounce",cereal
+14,$6.19,"Cheerios Honey Nut, Cereal, 15.4 Ounce",cereal
+17,$6.69,"Reese's Puffs Sweet & Crunchy, Corn Puffs, 16.7 Ounce",cereal
+18,$4.99,"Apple Jacks Sweetened with Apple & Cinnamon, Cereal, 10.1 Ounce",cereal
+19,$5.79,"Apple Jacks Sweetened with Apple & Cinnamon, Cereal, 14.7 Ounce",cereal
+20,$3.99,"Apple Jacks Sweetened with Apple & Cinnamon, Cereal, 18.4 Ounce",cereal
+21,$2.69,"Arrowhead Mills Puffed Corn, Cereal, 6 Ounce",cereal
+22,$2.69,"Arrowhead Mills Puffed Millet, Cereal, 6 Ounce",cereal
+25,$2.69,"Arrowhead Mills Puffed Rice, Cereal, 6 Ounce",cereal
+26,$2.69,"Arrowhead Mills Puffed Wheat, Cereal, 6 Ounce",cereal
+27,$4.39,"Barbara's Morning Oat Crunch Original Crunchy Whole Grain, Cereal, 14 Ounce",cereal
+28,$3.99,"Barbara's Puffins Original, Cereal, 10 Ounce",cereal
+29,$3.99,"Barbara's Puffins Peanut Butter, Cereal, 11 Ounce",cereal
+30,$4.39,"Barbara's Shredded Wheat Big Biscuit, Cereal, 15 Ounce",cereal
+31,$5.79,"Basic 4 Multigrain with Fruit & Almonds, Cereal, 19.8 Ounce",cereal
+32,$5.99,"Cap'n Crunch Berries Sweetened Corn & Oat, Cereal, 23.9 Ounce",cereal
+33,$3.89,"Cap'n Crunch Sweetened Corn & Oat, Cereal, 12.6 Ounce",cereal
+36,$4.99,"Cap'n Crunch Sweetened Corn & Oat, Cereal, 18 Ounce",cereal
+37,$5.99,"Cap'n Crunch Sweetened Corn & Oat, Cereal, 25.7 Ounce",cereal
+38,$3.49,"Cap'n Crunch's Berrytastic, Pancake Mix, 24 Ounce",cereal
+39,$3.89,"Cap'n Crunch's Chocolate Caramel Crunch Sweetened Corn & Oat, Cereal, 11.8 Ounce",cereal
+40,$4.99,"Cap'n Crunch's Crunch Berries Sweetened Corn & Oat, Cereal, 16.8 Ounce",cereal
+41,$3.89,"Cap'n Crunch's Peanut Butter Crunch Sweetened, Corn & Oat Cereal, 11.4 Ounce",cereal
+42,$4.99,"Cap'n Crunch's Sweetened Corn & Oat, Cereal, 17.6 Ounce",cereal
+43,$3.89,"Cap'n Crunch's Sweetened Corn & Oat, Cereal, 10.3 Ounce",cereal
+44,$4.99,"Cap'n Crunch's Sweetened Corn & Oat, Cereal, 13.8 Ounce",cereal
+45,$3.89,"CAPTAIN CRUNCH Crunch Berrie, Sweetened Corn & Oat Cereal, 11.7 Ounce",cereal
+46,$5.49,"Cascadian Farm Organic Cinnamon Raisin, Granola, 15.6 Ounce",cereal
+0,$2.99,"Anna Fusilli Col Buco #108, Pasta, 16 Ounce",pasta
+3,$2.99,"Anna Gluten Free Elbows, Pasta, 8 Ounce",pasta
+4,$2.99,"Anna Gluten Free Penne Rigate, Pasta, 8 Ounce",pasta
+7,$2.29,"Anna Mini Potato, Gnocchi, 17.6 Ounce",pasta
+8,$2.29,"Anna Potato, Gnocchi, 17.6 Ounce",pasta
+9,$1.99,"Anna Rotelle # 54, Pasta, 16 Ounce",pasta
+12,$3.99,"Banza Cavatappi, Pasta, 8 Ounce",pasta
+13,$3.99,"Banza Penne, Pasta, 8 Ounce",pasta
+14,$3.99,"Banza Rigatoni, Pasta, 8 Ounce",pasta
+15,$3.99,"Banza Rotini Made from Chickpeas, Pasta, 8 Ounce",pasta
+18,$3.99,"Banza Shells Made from Chickpeas, Pasta, 8 Ounce",pasta
+19,$2.99,"Barilla  Protein+ Rotini Grain & Legume, Pasta, 14.5 Ounce",pasta
+20,$2.49,"Barilla  Red Lentil Rotini, Pasta, 8.8 Ounce",pasta
+21,$1.99,"Barilla Angel Hair, Pasta, 1 Pound",pasta
+22,$1.99,"Barilla Campanelle Pasta, 1 Pound",pasta
+25,$2.49,"Barilla Chickpea Rotini, Pasta, 8.8 Ounce",pasta
+26,$2.49,"Barilla Chickpea Spaghetti, Pasta, 8.8 Ounce",pasta
+27,$1.99,"Barilla Classic Blue Box Pasta Mini Wheels, 1 Pound",pasta
+28,$1.99,"Barilla Classic Blue Box Pasta Mostaccioli, 1 Pound",pasta
+29,$1.99,"Barilla Classic Blue Box Pasta Spaghetti Rigati, 1 Pound",pasta
+30,$2.99,"Barilla Collezione Bucatini, Pasta, 12 Ounce",pasta
+31,$5.79,"Barilla Collezione Cheese & Spinach Tortellini, Pasta, 12 Ounce",pasta
+32,$2.99,"Barilla Collezione Pasta Orecchiette, 12 Ounce",pasta
+33,$2.99,"Barilla Collezione Rigatoni, Pasta, 12 Ounce",pasta
+34,$5.79,"Barilla Collezione Three Cheese Tortellini, Pasta, 12 Ounce",pasta
+37,$1.99,"Barilla Ditalini n.45, Pasta, 1 Pound",pasta
+38,$1.99,"Barilla Fettuccine n.6, Pasta, 1 Pound",pasta
+39,$1.99,"Barilla Fully Cooked Elbows, Ready Pasta, 8.5 Ounce",pasta
+40,$1.99,"Barilla Fully Cooked Gemelli, Ready Pasta, 8.5 Ounce",pasta
+41,$1.99,"Barilla Fully Cooked Rotini, Ready Pasta, 8.5 Ounce",pasta
