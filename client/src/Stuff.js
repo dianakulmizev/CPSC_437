@@ -171,7 +171,7 @@ function Stuff() {
           <ol>
             {shoppingResult.map ((val)=>{
             return <li>
-              Your shopping list can be fulfilled at {val.store} at ${val.total_price.toFixed(2)}. 
+              Your shopping list can be fulfilled at {val.store} for ${val.total_price.toFixed(2)}. 
               </li>
             })}
           </ol>
